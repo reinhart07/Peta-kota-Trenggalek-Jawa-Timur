@@ -1,0 +1,7363 @@
+/3.2
+(ODB.1
+	Dependencies:	"$AVEXT/jfif.avx\n$AVEXT/transform (1).avx\n$AVEXT/imagine.avx\n"
+	FirstRootClassName:	"Project"
+	Roots:	2
+	Version:	32
+)
+
+(Project.2
+	Name:	"proj1.apr"
+	CreationDate:	"Thursday, May 2, 2024 2:10:26 PM"
+	GUIName:	"Project"
+	Win:	3
+	CSMgr:	4
+	DocExts:	5
+	VisGUIWidth:	70
+	Doc:	6
+	Doc:	760
+	Doc:	412
+	Doc:	445
+	Doc:	683
+	Doc:	547
+	Doc:	273
+	Doc:	235
+	Doc:	197
+	Doc:	312
+	Doc:	633
+	Doc:	385
+	Doc:	43
+	ActiveDoc:	43
+	Buttons:	773
+	Buttons:	774
+	Buttons:	775
+	Dependencies:	776
+	Dependencies:	777
+	Dependencies:	778
+	Scripts:	779
+	Prefs:	807
+	GUI:	810
+	WorkDir:	1641
+	WinX:	-8
+	WinY:	-7
+	WinW:	1552
+	WinH:	831
+	SerialNumber:	"911111111111"
+	SelColor:	1642
+	GUINames:	1643
+	GUINames:	1644
+	GUINames:	1645
+	GUINames:	1646
+	GUINames:	1647
+	GUINames:	1648
+	GUINames:	1649
+	TocWidthScale:	1.00000000000000
+)
+
+(DocWin.3
+	Owner:	2
+	Open:	1
+	X:	568
+	Y:	199
+	W:	760
+	H:	344
+)
+
+(CSMgr.4
+)
+
+(DocAct.5
+	Doc:	2
+)
+
+(Table.6
+	Name:	"Attributes of Air minum.shp"
+	CreationDate:	"Tuesday, June 25, 2024 2:15:17 PM"
+	GUIName:	"Table"
+	Win:	7
+	CSMgr:	8
+	DocExts:	759
+	VTab:	14
+)
+
+(DocWin.7
+	Owner:	6
+	X:	20
+	Y:	20
+	W:	624
+	H:	260
+)
+
+(CSMgr.8
+	Client:	9
+)
+
+(CSClient.9
+	Client:	10
+	ReqName:	"RespondTable"
+)
+
+(FTheme.10
+	Name:	"Air minum.shp"
+	Source:	11
+	Flags:	0x07
+	Legend:	23
+	Threshold:	42
+	View:	43
+	GSet:	757
+	LegEditScript:	"View.EditLegend"
+	TxPos:	758
+	Table:	6
+	SnapTolCursor:	1
+)
+
+(ShpSrc.11
+	Name:	12
+	FTab:	14
+)
+
+(SrcName.12
+	FileName:	13
+	Name:	"air minum.shp"
+	SubName:	"Point"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.13
+	Path:	"d:/peta trenggalek/air minum.shp"
+)
+
+(FTab.14
+	Name:	"air minum.dbf"
+	BTab:	15
+	Fields:	21
+	Fields:	16
+	Fields:	17
+	Fields:	18
+	Fields:	19
+	SelBits:	22
+	FSrc:	11
+)
+
+(dBASE.15
+	Name:	"air minum.dbf"
+	Fields:	16
+	Fields:	17
+	Fields:	18
+	Fields:	19
+	FileName:	20
+)
+
+(Field.16
+	Name:	"ID"
+	Btab:	15
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.17
+	Name:	"air_minum"
+	Btab:	15
+	Alias:	"air minum"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	101
+)
+
+(Field.18
+	Name:	"volume"
+	Btab:	15
+	Alias:	"volume"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	101
+)
+
+(Field.19
+	Name:	"keterangan"
+	Btab:	15
+	Alias:	"keterangan"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(FN.20
+	Path:	"d:/peta trenggalek/air minum.dbf"
+)
+
+(Field.21
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	17
+	Order:	-1
+	Pixels:	41
+)
+
+(Bitmap.22
+	NumBits:	9
+	Bits:	00000000 
+)
+
+(Legend.23
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	24
+	Class:	32
+	StdDevs:	1.00000000000000
+	NullSym:	33
+	NullValues:	40
+	StatValues:	41
+	Precision:	-3
+)
+
+(SymList.24
+	Child:	25
+)
+
+(BMkSym.25
+	Color:	26
+	BgColor:	27
+	Font:	28
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.26
+	Red:	0x934b
+	Green:	0xb89d
+	Blue:	0x5731
+)
+
+(TClr.27
+	Name:	"Transparent"
+)
+
+(NFont.28
+	Family:	29
+	Name:	30
+	Style:	31
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.29
+	S:	"@FZShuTi"
+)
+
+(AVStr.30
+	S:	"@FZShuTi"
+)
+
+(AVStr.31
+	S:	"Normal"
+)
+
+(LClass.32
+	IsText:	1
+	Precision:	-3
+)
+
+(BMkSym.33
+	Color:	34
+	BgColor:	35
+	Font:	36
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.34
+	Name:	"Transparent"
+)
+
+(TClr.35
+	Name:	"Transparent"
+)
+
+(NFont.36
+	Family:	37
+	Name:	38
+	Style:	39
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.37
+	S:	"@FZShuTi"
+)
+
+(AVStr.38
+	S:	"@FZShuTi"
+)
+
+(AVStr.39
+	S:	"Normal"
+)
+
+(NameDict.40
+)
+
+(NameDict.41
+)
+
+(Thresh.42
+)
+
+(View.43
+	Name:	"View1"
+	CreationDate:	"Thursday, May 2, 2024 2:10:37 PM"
+	GUIName:	"View"
+	Win:	44
+	CSMgr:	45
+	DocExts:	47
+	DocExts:	48
+	Graphics:	49
+	Theme:	164
+	Theme:	202
+	Theme:	240
+	Theme:	278
+	Theme:	10
+	Theme:	317
+	Theme:	390
+	Theme:	418
+	Theme:	451
+	Theme:	479
+	Theme:	502
+	Theme:	525
+	Theme:	553
+	Theme:	576
+	Theme:	599
+	Theme:	638
+	Theme:	661
+	Theme:	689
+	Theme:	716
+	Theme:	743
+	LastScale:	392299.80823017634000
+	Dpy:	159
+	TOCWidth:	150
+	CoordPrecision:	2
+)
+
+(DocWin.44
+	Owner:	43
+	Open:	1
+	X:	-8
+	Y:	-8
+	W:	1554
+	H:	722
+)
+
+(CSMgr.45
+	Client:	46
+)
+
+(CSClient.46
+	Client:	47
+	ReqName:	"ClientNfy"
+)
+
+(PanMgr.47
+	Doc:	43
+)
+
+(DocAct.48
+	Doc:	43
+)
+
+(GList.49
+	Child:	50
+	Child:	129
+	Child:	139
+	Child:	149
+	Dpy:	159
+	FormatNumb:	163
+)
+
+(GLabel.50
+	Bounds:	51
+	Sym:	52
+	Text:	"Trenggalek"
+	Spacing:	1.00000000000000
+	Siblings:	62
+)
+
+(RectD.51
+	Left:	111.70601146218449
+	Top:	-8.03718111253652
+	Right:	111.74443968236046
+	Bottom:	-8.04585565433697
+)
+
+(TxSym.52
+	Color:	53
+	Scale:	54
+	Font:	55
+	BgColor:	60
+	OlColor:	61
+	Size:	0.62456700963208
+)
+
+(TClr.53
+)
+
+(Numb.54
+	N:	11.15917476263316
+)
+
+(NFont.55
+	Family:	56
+	Name:	57
+	Style:	58
+	CommonFamily:	59
+	Weight:	1
+	Wideness:	1
+	UseCaching:	1
+)
+
+(AVStr.56
+	S:	"Arial"
+)
+
+(AVStr.57
+	S:	"Arial"
+)
+
+(AVStr.58
+	S:	"Normal"
+)
+
+(AVStr.59
+	S:	"Helvetica"
+)
+
+(TClr.60
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.61
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(List.62
+	Child:	50
+	Child:	63
+	Child:	65
+	Child:	67
+	Child:	69
+	Child:	71
+	Child:	73
+	Child:	75
+	Child:	77
+	Child:	79
+	Child:	81
+	Child:	83
+	Child:	85
+	Child:	87
+	Child:	89
+	Child:	91
+	Child:	93
+	Child:	95
+	Child:	97
+	Child:	99
+	Child:	101
+	Child:	103
+	Child:	105
+	Child:	107
+	Child:	109
+	Child:	111
+	Child:	113
+	Child:	115
+	Child:	117
+	Child:	119
+	Child:	121
+	Child:	123
+	Child:	125
+	Child:	127
+)
+
+(GLabel.63
+	Bounds:	64
+	Sym:	52
+	Selected:	0x01
+	Text:	"Trenggalek"
+	Spacing:	1.00000000000000
+	Siblings:	62
+)
+
+(RectD.64
+	Left:	111.69200310212024
+	Top:	-8.03796446516142
+	Right:	111.73043132229621
+	Bottom:	-8.04663900696186
+)
+
+(GLabel.65
+	Bounds:	66
+	Sym:	52
+	Selected:	0x01
+	Text:	"Trenggalek"
+	Spacing:	1.00000000000000
+	Siblings:	62
+)
+
+(RectD.66
+	Left:	111.69215977264523
+	Top:	-8.03342101993703
+	Right:	111.73058799282120
+	Bottom:	-8.04209556173747
+)
+
+(GLabel.67
+	Bounds:	68
+	Sym:	52
+	Selected:	0x01
+	Text:	"Trenggalek"
+	Spacing:	1.00000000000000
+	Siblings:	62
+)
+
+(RectD.68
+	Left:	111.71096023564269
+	Top:	-8.03592774833669
+	Right:	111.74938845581866
+	Bottom:	-8.04460229013714
+)
+
+(GLabel.69
+	Bounds:	70
+	Sym:	52
+	Selected:	0x01
+	Text:	"Trenggalek"
+	Spacing:	1.00000000000000
+	Siblings:	62
+)
+
+(RectD.70
+	Left:	111.70240804010999
+	Top:	-8.03592774833669
+	Right:	111.74083626028596
+	Bottom:	-8.04460229013714
+)
+
+(GLabel.71
+	Bounds:	72
+	Sym:	52
+	Selected:	0x01
+	Text:	"Trenggalek"
+	Spacing:	1.00000000000000
+	Siblings:	62
+)
+
+(RectD.72
+	Left:	111.70851819058416
+	Top:	-8.03749445358648
+	Right:	111.74694641076013
+	Bottom:	-8.04616899538693
+)
+
+(GLabel.73
+	Bounds:	74
+	Sym:	52
+	Selected:	0x01
+	Text:	"Trenggalek"
+	Spacing:	1.00000000000000
+	Siblings:	62
+)
+
+(RectD.74
+	Left:	111.70648147375944
+	Top:	-8.03749445358648
+	Right:	111.74490969393541
+	Bottom:	-8.04616899538693
+)
+
+(GLabel.75
+	Bounds:	76
+	Sym:	52
+	Selected:	0x01
+	Text:	"Trenggalek"
+	Spacing:	1.00000000000000
+	Siblings:	62
+)
+
+(RectD.76
+	Left:	111.70945821373404
+	Top:	-8.03686777148657
+	Right:	111.74788643391001
+	Bottom:	-8.04554231328701
+)
+
+(GLabel.77
+	Bounds:	78
+	Sym:	52
+	Selected:	0x01
+	Text:	"Trenggalek"
+	Spacing:	1.00000000000000
+	Siblings:	62
+)
+
+(RectD.78
+	Left:	111.70475809798467
+	Top:	-8.03467438413686
+	Right:	111.74318631816064
+	Bottom:	-8.04334892593731
+)
+
+(GLabel.79
+	Bounds:	80
+	Sym:	52
+	Selected:	0x01
+	Text:	"Trenggalek"
+	Spacing:	1.00000000000000
+	Siblings:	62
+)
+
+(RectD.80
+	Left:	111.70068466433521
+	Top:	-8.03467438413686
+	Right:	111.73911288451119
+	Bottom:	-8.04334892593731
+)
+
+(GLabel.81
+	Bounds:	82
+	Sym:	52
+	Selected:	0x01
+	Text:	"Trenggalek"
+	Spacing:	1.00000000000000
+	Siblings:	62
+)
+
+(RectD.82
+	Left:	111.71118158950880
+	Top:	-8.03796446516142
+	Right:	111.74960980968477
+	Bottom:	-8.04663900696186
+)
+
+(GLabel.83
+	Bounds:	84
+	Sym:	52
+	Selected:	0x01
+	Text:	"Trenggalek"
+	Spacing:	1.00000000000000
+	Siblings:	62
+)
+
+(RectD.84
+	Left:	111.70742149690930
+	Top:	-8.03796446516142
+	Right:	111.74584971708528
+	Bottom:	-8.04663900696186
+)
+
+(GLabel.85
+	Bounds:	86
+	Sym:	52
+	Selected:	0x01
+	Text:	"Trenggalek"
+	Spacing:	1.00000000000000
+	Siblings:	62
+)
+
+(RectD.86
+	Left:	111.70616813270946
+	Top:	-8.03671110096159
+	Right:	111.74459635288544
+	Bottom:	-8.04538564276203
+)
+
+(GLabel.87
+	Bounds:	88
+	Sym:	52
+	Selected:	0x01
+	Text:	"Trenggalek"
+	Spacing:	1.00000000000000
+	Siblings:	62
+)
+
+(RectD.88
+	Left:	111.70695148533436
+	Top:	-8.03671110096159
+	Right:	111.74537970551033
+	Bottom:	-8.04538564276203
+)
+
+(GLabel.89
+	Bounds:	90
+	Sym:	52
+	Selected:	0x01
+	Text:	"Trenggalek"
+	Spacing:	1.00000000000000
+	Siblings:	62
+)
+
+(RectD.90
+	Left:	111.70522810955958
+	Top:	-8.03655443043661
+	Right:	111.74365632973556
+	Bottom:	-8.04522897223705
+)
+
+(GLabel.91
+	Bounds:	92
+	Sym:	52
+	Selected:	0x01
+	Text:	"Trenggalek"
+	Spacing:	1.00000000000000
+	Siblings:	62
+)
+
+(RectD.92
+	Left:	111.70225136958500
+	Top:	-8.03655443043661
+	Right:	111.74067958976097
+	Bottom:	-8.04522897223705
+)
+
+(GLabel.93
+	Bounds:	94
+	Sym:	52
+	Selected:	0x01
+	Text:	"Trenggalek"
+	Spacing:	1.00000000000000
+	Siblings:	62
+)
+
+(RectD.94
+	Left:	111.70569812113453
+	Top:	-8.03780779463644
+	Right:	111.74412634131050
+	Bottom:	-8.04648233643688
+)
+
+(GLabel.95
+	Bounds:	96
+	Sym:	52
+	Selected:	0x01
+	Text:	"Trenggalek"
+	Spacing:	1.00000000000000
+	Siblings:	62
+)
+
+(RectD.96
+	Left:	111.70616813270946
+	Top:	-8.03780779463644
+	Right:	111.74459635288544
+	Bottom:	-8.04648233643688
+)
+
+(GLabel.97
+	Bounds:	98
+	Sym:	52
+	Selected:	0x01
+	Text:	"Trenggalek"
+	Spacing:	1.00000000000000
+	Siblings:	62
+)
+
+(RectD.98
+	Left:	111.70616813270946
+	Top:	-8.03733778306150
+	Right:	111.74459635288544
+	Bottom:	-8.04601232486195
+)
+
+(GLabel.99
+	Bounds:	100
+	Sym:	52
+	Selected:	0x01
+	Text:	"Trenggalek"
+	Spacing:	1.00000000000000
+	Siblings:	62
+)
+
+(RectD.100
+	Left:	111.70616813270946
+	Top:	-8.03702444201154
+	Right:	111.74459635288544
+	Bottom:	-8.04569898381199
+)
+
+(GLabel.101
+	Bounds:	102
+	Sym:	52
+	Selected:	0x01
+	Text:	"Trenggalek"
+	Spacing:	1.00000000000000
+	Siblings:	62
+)
+
+(RectD.102
+	Left:	111.70585479165950
+	Top:	-8.03686777148657
+	Right:	111.74428301183548
+	Bottom:	-8.04554231328701
+)
+
+(GLabel.103
+	Bounds:	104
+	Sym:	52
+	Selected:	0x01
+	Text:	"Trenggalek"
+	Spacing:	1.00000000000000
+	Siblings:	62
+)
+
+(RectD.104
+	Left:	111.70585479165950
+	Top:	-8.03639775991163
+	Right:	111.74428301183548
+	Bottom:	-8.04507230171208
+)
+
+(GLabel.105
+	Bounds:	106
+	Sym:	52
+	Selected:	0x01
+	Text:	"Trenggalek"
+	Spacing:	1.00000000000000
+	Siblings:	62
+)
+
+(RectD.106
+	Left:	111.70601146218448
+	Top:	-8.03718111253652
+	Right:	111.74443968236045
+	Bottom:	-8.04585565433697
+)
+
+(GLabel.107
+	Bounds:	108
+	Sym:	52
+	Selected:	0x01
+	Text:	"Trenggalek"
+	Spacing:	1.00000000000000
+	Siblings:	62
+)
+
+(RectD.108
+	Left:	111.70601146218448
+	Top:	-8.03655443043661
+	Right:	111.74443968236045
+	Bottom:	-8.04522897223705
+)
+
+(GLabel.109
+	Bounds:	110
+	Sym:	52
+	Selected:	0x01
+	Text:	"Trenggalek"
+	Spacing:	1.00000000000000
+	Siblings:	62
+)
+
+(RectD.110
+	Left:	111.70358104558822
+	Top:	-8.03655443043661
+	Right:	111.74200926576420
+	Bottom:	-8.04522897223705
+)
+
+(GLabel.111
+	Bounds:	112
+	Sym:	52
+	Selected:	0x01
+	Text:	"Trenggalek"
+	Spacing:	1.00000000000000
+	Siblings:	62
+)
+
+(RectD.112
+	Left:	111.70436439821312
+	Top:	-8.03702444201154
+	Right:	111.74279261838909
+	Bottom:	-8.04569898381199
+)
+
+(GLabel.113
+	Bounds:	114
+	Sym:	52
+	Selected:	0x01
+	Text:	"Trenggalek"
+	Spacing:	1.00000000000000
+	Siblings:	62
+)
+
+(RectD.114
+	Left:	111.70514775083801
+	Top:	-8.03765112411146
+	Right:	111.74357597101398
+	Bottom:	-8.04632566591191
+)
+
+(GLabel.115
+	Bounds:	116
+	Sym:	52
+	Selected:	0x01
+	Text:	"Trenggalek"
+	Spacing:	1.00000000000000
+	Siblings:	62
+)
+
+(RectD.116
+	Left:	111.70593110346290
+	Top:	-8.03749445358648
+	Right:	111.74435932363888
+	Bottom:	-8.04616899538693
+)
+
+(GLabel.117
+	Bounds:	118
+	Sym:	52
+	Selected:	0x01
+	Text:	"Trenggalek"
+	Spacing:	1.00000000000000
+	Siblings:	62
+)
+
+(RectD.118
+	Left:	111.70593110346290
+	Top:	-8.03749445358648
+	Right:	111.74435932363888
+	Bottom:	-8.04616899538693
+)
+
+(GLabel.119
+	Bounds:	120
+	Sym:	52
+	Selected:	0x01
+	Text:	"Trenggalek"
+	Spacing:	1.00000000000000
+	Siblings:	62
+)
+
+(RectD.120
+	Left:	111.70593110346290
+	Top:	-8.03702444201154
+	Right:	111.74435932363888
+	Bottom:	-8.04569898381199
+)
+
+(GLabel.121
+	Bounds:	122
+	Sym:	52
+	Selected:	0x01
+	Text:	"Trenggalek"
+	Spacing:	1.00000000000000
+	Siblings:	62
+)
+
+(RectD.122
+	Left:	111.70428808640973
+	Top:	-8.03702444201154
+	Right:	111.74271630658571
+	Bottom:	-8.04569898381199
+)
+
+(GLabel.123
+	Bounds:	124
+	Sym:	52
+	Selected:	0x01
+	Text:	"Trenggalek"
+	Spacing:	1.00000000000000
+	Siblings:	62
+)
+
+(RectD.124
+	Left:	111.70616813270948
+	Top:	-8.03765112411146
+	Right:	111.74459635288545
+	Bottom:	-8.04632566591191
+)
+
+(GLabel.125
+	Bounds:	126
+	Sym:	52
+	Selected:	0x01
+	Text:	"Trenggalek"
+	Spacing:	1.00000000000000
+	Siblings:	62
+)
+
+(RectD.126
+	Left:	111.70616813270948
+	Top:	-8.03749445358648
+	Right:	111.74459635288545
+	Bottom:	-8.04616899538693
+)
+
+(GLabel.127
+	Bounds:	128
+	Sym:	52
+	Selected:	0x01
+	Text:	"Trenggalek"
+	Spacing:	1.00000000000000
+	Siblings:	62
+)
+
+(RectD.128
+	Left:	111.70601146218449
+	Top:	-8.03671110096159
+	Right:	111.74443968236046
+	Bottom:	-8.04538564276203
+)
+
+(GShape.129
+	Bounds:	130
+	Sym:	131
+	Shape:	138
+)
+
+(RectD.130
+	Left:	111.60263659932275
+	Top:	-8.01529494822218
+	Right:	111.62255045737669
+	Bottom:	-8.03520880627612
+)
+
+(BMkSym.131
+	Color:	132
+	BgColor:	133
+	Font:	134
+	Size:	16.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.132
+)
+
+(TClr.133
+	Name:	"Transparent"
+)
+
+(NFont.134
+	Family:	135
+	Name:	136
+	Style:	137
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.135
+	S:	"@FZShuTi"
+)
+
+(AVStr.136
+	S:	"@FZShuTi"
+)
+
+(AVStr.137
+	S:	"Normal"
+)
+
+(PointD.138
+	x:	111.61259352834972
+	y:	-8.02525187724915
+)
+
+(GShape.139
+	Bounds:	140
+	Sym:	141
+	Shape:	148
+)
+
+(RectD.140
+	Left:	111.62224571313926
+	Top:	-8.18606182591711
+	Right:	111.64215957119320
+	Bottom:	-8.20597568397105
+)
+
+(BMkSym.141
+	Color:	142
+	BgColor:	143
+	Font:	144
+	Size:	16.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.142
+)
+
+(TClr.143
+	Name:	"Transparent"
+)
+
+(NFont.144
+	Family:	145
+	Name:	146
+	Style:	147
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.145
+	S:	"@FZShuTi"
+)
+
+(AVStr.146
+	S:	"@FZShuTi"
+)
+
+(AVStr.147
+	S:	"Normal"
+)
+
+(PointD.148
+	x:	111.63220264216623
+	y:	-8.19601875494408
+)
+
+(GShape.149
+	Bounds:	150
+	Sym:	151
+	Shape:	158
+)
+
+(RectD.150
+	Left:	111.62822843170049
+	Top:	-8.19301685101932
+	Right:	111.64814228975443
+	Bottom:	-8.21293070907326
+)
+
+(BMkSym.151
+	Color:	152
+	BgColor:	153
+	Font:	154
+	Size:	16.00000000000000
+	Pattern:	32
+	Angle:	360.00000000000000
+)
+
+(TClr.152
+)
+
+(TClr.153
+	Name:	"Transparent"
+)
+
+(NFont.154
+	Family:	155
+	Name:	156
+	Style:	157
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.155
+	S:	"Wingdings"
+)
+
+(AVStr.156
+	S:	"Wingdings"
+)
+
+(AVStr.157
+	S:	"Normal"
+)
+
+(PointD.158
+	x:	111.63818536072746
+	y:	-8.20297378004629
+)
+
+(MapDpy.159
+	Left:	111.27086022429256
+	Bottom:	-8.45041799769779
+	Top:	-7.81659723432463
+	Right:	112.15838340194703
+	ReportUnits:	4
+	Units:	10
+	Scale:	54
+	FrameTop:	7.07291666666667
+	FrameRight:	14.38541666666667
+	PageDpy:	160
+	FitToPage:	1
+	MouseLoc:	162
+)
+
+(PageDpy.160
+	Top:	7.07291666666667
+	Right:	14.38541666666667
+	ReportUnits:	1
+	Units:	1
+	Scale:	161
+	ZoomRight:	14.38541666666667
+	ZoomTop:	7.07291666666667
+	GridSpacingX:	0.25000000000000
+	GridSpacingY:	0.25000000000000
+)
+
+(Numb.161
+	N:	96.00000000000000
+)
+
+(PointD.162
+	x:	111.14941051382311
+	y:	-8.09663586320821
+)
+
+(Numb.163
+)
+
+(FTheme.164
+	Name:	"Kota lainnya.shp"
+	Source:	165
+	Flags:	0x06
+	Legend:	175
+	Threshold:	194
+	View:	43
+	GSet:	195
+	LegEditScript:	"View.EditLegend"
+	TxPos:	196
+	Table:	197
+	SnapTolCursor:	1
+)
+
+(ShpSrc.165
+	Name:	166
+	FTab:	168
+)
+
+(SrcName.166
+	FileName:	167
+	Name:	"kota lainnya.shp"
+	SubName:	"Point"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.167
+	Path:	"d:/peta trenggalek/kota lainnya.shp"
+)
+
+(FTab.168
+	Name:	"kota lainnya.dbf"
+	BTab:	169
+	Fields:	173
+	Fields:	170
+	Fields:	171
+	SelBits:	174
+	FSrc:	165
+)
+
+(dBASE.169
+	Name:	"kota lainnya.dbf"
+	Fields:	170
+	Fields:	171
+	FileName:	172
+)
+
+(Field.170
+	Name:	"ID"
+	Btab:	169
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.171
+	Name:	"kotalainny"
+	Btab:	169
+	Alias:	"kotalainnya"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(FN.172
+	Path:	"d:/peta trenggalek/kota lainnya.dbf"
+)
+
+(Field.173
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	17
+	Order:	-1
+	Pixels:	41
+)
+
+(Bitmap.174
+	NumBits:	1
+	Bits:	00000000 
+)
+
+(Legend.175
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	176
+	Class:	184
+	StdDevs:	1.00000000000000
+	NullSym:	185
+	NullValues:	192
+	StatValues:	193
+	Precision:	-3
+)
+
+(SymList.176
+	Child:	177
+)
+
+(BMkSym.177
+	Color:	178
+	BgColor:	179
+	Font:	180
+	Size:	8.00000000000000
+	Pattern:	213
+	Angle:	360.00000000000000
+)
+
+(TClr.178
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(TClr.179
+	Name:	"Transparent"
+)
+
+(NFont.180
+	Family:	181
+	Name:	182
+	Style:	183
+	Serif:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.181
+	S:	"Webdings"
+)
+
+(AVStr.182
+	S:	"Webdings"
+)
+
+(AVStr.183
+	S:	"Normal"
+)
+
+(LClass.184
+	IsText:	1
+	Precision:	-3
+)
+
+(BMkSym.185
+	Color:	186
+	BgColor:	187
+	Font:	188
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.186
+	Name:	"Transparent"
+)
+
+(TClr.187
+	Name:	"Transparent"
+)
+
+(NFont.188
+	Family:	189
+	Name:	190
+	Style:	191
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.189
+	S:	"@FZShuTi"
+)
+
+(AVStr.190
+	S:	"@FZShuTi"
+)
+
+(AVStr.191
+	S:	"Normal"
+)
+
+(NameDict.192
+)
+
+(NameDict.193
+)
+
+(Thresh.194
+)
+
+(GSet.195
+)
+
+(TxPosPt.196
+	HAlign:	4
+	VAlign:	3
+)
+
+(Table.197
+	Name:	"Attributes of Kota lainnya.shp"
+	CreationDate:	"Monday, June 10, 2024 10:31:36 PM"
+	GUIName:	"Table"
+	Win:	198
+	CSMgr:	199
+	DocExts:	201
+	VTab:	168
+)
+
+(DocWin.198
+	Owner:	197
+	X:	50
+	Y:	50
+	W:	373
+	H:	260
+)
+
+(CSMgr.199
+	Client:	200
+)
+
+(CSClient.200
+	Client:	164
+	ReqName:	"RespondTable"
+)
+
+(DocAct.201
+	Doc:	197
+)
+
+(FTheme.202
+	Name:	"Kecamatan.shp"
+	Source:	203
+	Flags:	0x06
+	Legend:	213
+	Threshold:	232
+	View:	43
+	GSet:	233
+	LegEditScript:	"View.EditLegend"
+	TxPos:	234
+	Table:	235
+	SnapTolCursor:	1
+)
+
+(ShpSrc.203
+	Name:	204
+	FTab:	206
+)
+
+(SrcName.204
+	FileName:	205
+	Name:	"kecamatan.shp"
+	SubName:	"Point"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.205
+	Path:	"d:/peta trenggalek/kecamatan.shp"
+)
+
+(FTab.206
+	Name:	"kecamatan.dbf"
+	BTab:	207
+	Fields:	211
+	Fields:	208
+	Fields:	209
+	SelBits:	212
+	FSrc:	203
+)
+
+(dBASE.207
+	Name:	"kecamatan.dbf"
+	Fields:	208
+	Fields:	209
+	FileName:	210
+)
+
+(Field.208
+	Name:	"ID"
+	Btab:	207
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.209
+	Name:	"Kecamatan"
+	Btab:	207
+	Alias:	"Kecamatan"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(FN.210
+	Path:	"d:/peta trenggalek/kecamatan.dbf"
+)
+
+(Field.211
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	17
+	Order:	-1
+	Pixels:	41
+)
+
+(Bitmap.212
+	NumBits:	10
+	Bits:	00000000 
+)
+
+(Legend.213
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	214
+	Class:	222
+	StdDevs:	1.00000000000000
+	NullSym:	223
+	NullValues:	230
+	StatValues:	231
+	Precision:	-3
+)
+
+(SymList.214
+	Child:	215
+)
+
+(BMkSym.215
+	Color:	216
+	BgColor:	217
+	Font:	218
+	Size:	8.00000000000000
+	Pattern:	61
+	Angle:	360.00000000000000
+)
+
+(TClr.216
+)
+
+(TClr.217
+	Name:	"Transparent"
+)
+
+(NFont.218
+	Family:	219
+	Name:	220
+	Style:	221
+	Serif:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.219
+	S:	"Webdings"
+)
+
+(AVStr.220
+	S:	"Webdings"
+)
+
+(AVStr.221
+	S:	"Normal"
+)
+
+(LClass.222
+	IsText:	1
+	Precision:	-3
+)
+
+(BMkSym.223
+	Color:	224
+	BgColor:	225
+	Font:	226
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.224
+	Name:	"Transparent"
+)
+
+(TClr.225
+	Name:	"Transparent"
+)
+
+(NFont.226
+	Family:	227
+	Name:	228
+	Style:	229
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.227
+	S:	"@FZShuTi"
+)
+
+(AVStr.228
+	S:	"@FZShuTi"
+)
+
+(AVStr.229
+	S:	"Normal"
+)
+
+(NameDict.230
+)
+
+(NameDict.231
+)
+
+(Thresh.232
+)
+
+(GSet.233
+)
+
+(TxPosPt.234
+	HAlign:	4
+	VAlign:	3
+)
+
+(Table.235
+	Name:	"Attributes of Kecamatan.shp"
+	CreationDate:	"Monday, June 10, 2024 9:46:07 PM"
+	GUIName:	"Table"
+	Win:	236
+	CSMgr:	237
+	DocExts:	239
+	VTab:	206
+)
+
+(DocWin.236
+	Owner:	235
+	W:	760
+	H:	344
+)
+
+(CSMgr.237
+	Client:	238
+)
+
+(CSClient.238
+	Client:	202
+	ReqName:	"RespondTable"
+)
+
+(DocAct.239
+	Doc:	235
+)
+
+(FTheme.240
+	Name:	"Ibukota kabupaten.shp"
+	Source:	241
+	Flags:	0x06
+	Legend:	251
+	Threshold:	270
+	View:	43
+	GSet:	271
+	LegEditScript:	"View.EditLegend"
+	TxPos:	272
+	LabelField:	247
+	Table:	273
+	SnapTolCursor:	1
+)
+
+(ShpSrc.241
+	Name:	242
+	FTab:	244
+)
+
+(SrcName.242
+	FileName:	243
+	Name:	"ibukota kabupaten.shp"
+	SubName:	"Point"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.243
+	Path:	"d:/peta trenggalek/ibukota kabupaten.shp"
+)
+
+(FTab.244
+	Name:	"ibukota kabupaten.dbf"
+	BTab:	245
+	Fields:	249
+	Fields:	246
+	Fields:	247
+	SelBits:	250
+	FSrc:	241
+)
+
+(dBASE.245
+	Name:	"ibukota kabupaten.dbf"
+	Fields:	246
+	Fields:	247
+	FileName:	248
+)
+
+(Field.246
+	Name:	"ID"
+	Btab:	245
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.247
+	Name:	"ibukota_ka"
+	Btab:	245
+	Alias:	"ibukota kabupaten"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	101
+)
+
+(FN.248
+	Path:	"d:/peta trenggalek/ibukota kabupaten.dbf"
+)
+
+(Field.249
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	17
+	Order:	-1
+	Pixels:	41
+)
+
+(Bitmap.250
+	NumBits:	1
+	Bits:	00000000 
+)
+
+(Legend.251
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	252
+	Class:	260
+	StdDevs:	1.00000000000000
+	NullSym:	261
+	NullValues:	268
+	StatValues:	269
+	Precision:	-3
+)
+
+(SymList.252
+	Child:	253
+)
+
+(BMkSym.253
+	Color:	254
+	BgColor:	255
+	Font:	256
+	Size:	16.00000000000000
+	Pattern:	56
+	Angle:	360.00000000000000
+)
+
+(TClr.254
+)
+
+(TClr.255
+	Name:	"Transparent"
+)
+
+(NFont.256
+	Family:	257
+	Name:	258
+	Style:	259
+	Serif:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.257
+	S:	"Wingdings 2"
+)
+
+(AVStr.258
+	S:	"Wingdings 2"
+)
+
+(AVStr.259
+	S:	"Normal"
+)
+
+(LClass.260
+	IsText:	1
+	Precision:	-3
+)
+
+(BMkSym.261
+	Color:	262
+	BgColor:	263
+	Font:	264
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.262
+	Name:	"Transparent"
+)
+
+(TClr.263
+	Name:	"Transparent"
+)
+
+(NFont.264
+	Family:	265
+	Name:	266
+	Style:	267
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.265
+	S:	"@FZShuTi"
+)
+
+(AVStr.266
+	S:	"@FZShuTi"
+)
+
+(AVStr.267
+	S:	"Normal"
+)
+
+(NameDict.268
+)
+
+(NameDict.269
+)
+
+(Thresh.270
+)
+
+(GSet.271
+	Child:	50
+)
+
+(TxPosPt.272
+	HAlign:	4
+	VAlign:	3
+)
+
+(Table.273
+	Name:	"Attributes of Ibukota kabupaten.shp"
+	CreationDate:	"Monday, June 10, 2024 9:30:27 PM"
+	GUIName:	"Table"
+	Win:	274
+	CSMgr:	275
+	DocExts:	277
+	VTab:	244
+)
+
+(DocWin.274
+	Owner:	273
+	X:	20
+	Y:	20
+	W:	373
+	H:	260
+)
+
+(CSMgr.275
+	Client:	276
+)
+
+(CSClient.276
+	Client:	240
+	ReqName:	"RespondTable"
+)
+
+(DocAct.277
+	Doc:	273
+)
+
+(FTheme.278
+	Name:	"Pelabuhan penyebrangan.shp"
+	Source:	279
+	Flags:	0x06
+	Legend:	290
+	Threshold:	309
+	View:	43
+	GSet:	310
+	LegEditScript:	"View.EditLegend"
+	TxPos:	311
+	Table:	312
+	SnapTolCursor:	1
+)
+
+(ShpSrc.279
+	Name:	280
+	FTab:	282
+)
+
+(SrcName.280
+	FileName:	281
+	Name:	"pelabuhan penyebrangan.shp"
+	SubName:	"Point"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.281
+	Path:	"d:/peta trenggalek/pelabuhan penyebrangan.shp"
+)
+
+(FTab.282
+	Name:	"pelabuhan penyebrangan.dbf"
+	BTab:	283
+	Fields:	288
+	Fields:	284
+	Fields:	285
+	Fields:	286
+	SelBits:	289
+	FSrc:	279
+)
+
+(dBASE.283
+	Name:	"pelabuhan penyebrangan.dbf"
+	Fields:	284
+	Fields:	285
+	Fields:	286
+	FileName:	287
+)
+
+(Field.284
+	Name:	"ID"
+	Btab:	283
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.285
+	Name:	"Pelabuhan_"
+	Btab:	283
+	Alias:	"Pelabuhan "
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(Field.286
+	Name:	"keterangan"
+	Btab:	283
+	Alias:	"keterangan"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(FN.287
+	Path:	"d:/peta trenggalek/pelabuhan penyebrangan.dbf"
+)
+
+(Field.288
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	17
+	Order:	-1
+	Pixels:	41
+)
+
+(Bitmap.289
+	NumBits:	2
+
+)
+
+(Legend.290
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	291
+	Class:	299
+	StdDevs:	1.00000000000000
+	NullSym:	300
+	NullValues:	307
+	StatValues:	308
+	Precision:	-3
+)
+
+(SymList.291
+	Child:	292
+)
+
+(BMkSym.292
+	Color:	293
+	BgColor:	294
+	Font:	295
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.293
+	Red:	0x9478
+	Green:	0x6314
+	Blue:	0x1ffa
+)
+
+(TClr.294
+	Name:	"Transparent"
+)
+
+(NFont.295
+	Family:	296
+	Name:	297
+	Style:	298
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.296
+	S:	"@FZShuTi"
+)
+
+(AVStr.297
+	S:	"@FZShuTi"
+)
+
+(AVStr.298
+	S:	"Normal"
+)
+
+(LClass.299
+	IsText:	1
+	Precision:	-3
+)
+
+(BMkSym.300
+	Color:	301
+	BgColor:	302
+	Font:	303
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.301
+	Name:	"Transparent"
+)
+
+(TClr.302
+	Name:	"Transparent"
+)
+
+(NFont.303
+	Family:	304
+	Name:	305
+	Style:	306
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.304
+	S:	"@FZShuTi"
+)
+
+(AVStr.305
+	S:	"@FZShuTi"
+)
+
+(AVStr.306
+	S:	"Normal"
+)
+
+(NameDict.307
+)
+
+(NameDict.308
+)
+
+(Thresh.309
+)
+
+(GSet.310
+)
+
+(TxPosPt.311
+	HAlign:	4
+	VAlign:	3
+)
+
+(Table.312
+	Name:	"Attributes of Pelabuhan penyebrangan.shp"
+	CreationDate:	"Sunday, June 9, 2024 6:24:00 PM"
+	GUIName:	"Table"
+	Win:	313
+	CSMgr:	314
+	DocExts:	316
+	VTab:	282
+)
+
+(DocWin.313
+	Owner:	312
+	Open:	1
+	X:	609
+	Y:	73
+	W:	760
+	H:	344
+)
+
+(CSMgr.314
+	Client:	315
+)
+
+(CSClient.315
+	Client:	278
+	ReqName:	"RespondTable"
+)
+
+(DocAct.316
+	Doc:	312
+)
+
+(FTheme.317
+	Name:	"air minum"
+	Source:	318
+	Flags:	0x06
+	Legend:	330
+	Threshold:	382
+	View:	43
+	GSet:	383
+	LegEditScript:	"View.EditLegend"
+	TxPos:	384
+	Table:	385
+	SnapTolCursor:	1
+)
+
+(ShpSrc.318
+	Name:	319
+	FTab:	321
+)
+
+(SrcName.319
+	FileName:	320
+	Name:	"prasarana.shp"
+	SubName:	"Point"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.320
+	Path:	"d:/peta trenggalek/prasarana.shp"
+)
+
+(FTab.321
+	Name:	"prasarana.dbf"
+	BTab:	322
+	Fields:	328
+	Fields:	323
+	Fields:	324
+	Fields:	325
+	Fields:	326
+	SelBits:	329
+	FSrc:	318
+)
+
+(dBASE.322
+	Name:	"prasarana.dbf"
+	Fields:	323
+	Fields:	324
+	Fields:	325
+	Fields:	326
+	FileName:	327
+)
+
+(Field.323
+	Name:	"ID"
+	Btab:	322
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.324
+	Name:	"air_minum"
+	Btab:	322
+	Alias:	"air minum"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	101
+)
+
+(Field.325
+	Name:	"volume"
+	Btab:	322
+	Alias:	"volume"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	101
+)
+
+(Field.326
+	Name:	"keterangan"
+	Btab:	322
+	Alias:	"keterangan"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(FN.327
+	Path:	"d:/peta trenggalek/prasarana.dbf"
+)
+
+(Field.328
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	17
+	Order:	-1
+	Pixels:	41
+)
+
+(Bitmap.329
+	NumBits:	4
+	Bits:	00000000 
+)
+
+(Legend.330
+	LegType:	0x08
+	ClassType:	0x03
+	FieldNames:	331
+	Symbols:	332
+	Class:	368
+	Class:	369
+	Class:	370
+	Class:	371
+	Class:	372
+	StdDevs:	1.00000000000000
+	NullSym:	373
+	NullValues:	380
+	StatValues:	381
+	Precision:	-3
+)
+
+(AVStr.331
+	S:	"keterangan"
+)
+
+(SymList.332
+	Child:	333
+	Child:	340
+	Child:	347
+	Child:	354
+	Child:	361
+)
+
+(BMkSym.333
+	Color:	334
+	BgColor:	335
+	Font:	336
+	Size:	8.00000000000000
+	Pattern:	55
+	Angle:	360.00000000000000
+)
+
+(TClr.334
+	Red:	0xfe
+	Green:	0xfeff
+	Blue:	0x1cbb
+)
+
+(TClr.335
+	Name:	"Transparent"
+)
+
+(NFont.336
+	Family:	337
+	Name:	338
+	Style:	339
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.337
+	S:	"Wingdings"
+)
+
+(AVStr.338
+	S:	"Wingdings"
+)
+
+(AVStr.339
+	S:	"Normal"
+)
+
+(BMkSym.340
+	Color:	341
+	BgColor:	342
+	Font:	343
+	Size:	8.00000000000000
+	Pattern:	55
+	Angle:	360.00000000000000
+)
+
+(TClr.341
+	Red:	0xfeff
+	Green:	0xb393
+	Blue:	0xfe
+)
+
+(TClr.342
+	Name:	"Transparent"
+)
+
+(NFont.343
+	Family:	344
+	Name:	345
+	Style:	346
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.344
+	S:	"Wingdings"
+)
+
+(AVStr.345
+	S:	"Wingdings"
+)
+
+(AVStr.346
+	S:	"Normal"
+)
+
+(BMkSym.347
+	Color:	348
+	BgColor:	349
+	Font:	350
+	Size:	8.00000000000000
+	Pattern:	55
+	Angle:	360.00000000000000
+)
+
+(TClr.348
+	Red:	0x1ab5
+	Green:	0xfe
+	Blue:	0xfeff
+)
+
+(TClr.349
+	Name:	"Transparent"
+)
+
+(NFont.350
+	Family:	351
+	Name:	352
+	Style:	353
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.351
+	S:	"Wingdings"
+)
+
+(AVStr.352
+	S:	"Wingdings"
+)
+
+(AVStr.353
+	S:	"Normal"
+)
+
+(BMkSym.354
+	Color:	355
+	BgColor:	356
+	Font:	357
+	Size:	8.00000000000000
+	Pattern:	55
+	Angle:	360.00000000000000
+)
+
+(TClr.355
+	Red:	0xfeff
+	Green:	0xfe
+	Blue:	0xfe
+)
+
+(TClr.356
+	Name:	"Transparent"
+)
+
+(NFont.357
+	Family:	358
+	Name:	359
+	Style:	360
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.358
+	S:	"Wingdings"
+)
+
+(AVStr.359
+	S:	"Wingdings"
+)
+
+(AVStr.360
+	S:	"Normal"
+)
+
+(BMkSym.361
+	Color:	362
+	BgColor:	363
+	Font:	364
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.362
+	Name:	"Transparent"
+)
+
+(TClr.363
+	Name:	"Transparent"
+)
+
+(NFont.364
+	Family:	365
+	Name:	366
+	Style:	367
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.365
+	S:	"@FZShuTi"
+)
+
+(AVStr.366
+	S:	"@FZShuTi"
+)
+
+(AVStr.367
+	S:	"Normal"
+)
+
+(LClass.368
+	IsText:	1
+	Label:	"20-50 l/dt"
+	MinStr:	"20-50 l/dt"
+	MaxStr:	"20-50 l/dt"
+	Precision:	-3
+)
+
+(LClass.369
+	IsText:	1
+	Label:	"50-100 l/dt"
+	MinStr:	"50-100 l/dt"
+	MaxStr:	"50-100 l/dt"
+	Precision:	-3
+)
+
+(LClass.370
+	IsText:	1
+	Label:	"<20 l/dt"
+	MinStr:	"<20 l/dt"
+	MaxStr:	"<20 l/dt"
+	Precision:	-3
+)
+
+(LClass.371
+	IsText:	1
+	Label:	">100 l/dt"
+	MinStr:	">100 l/dt"
+	MaxStr:	">100 l/dt"
+	Precision:	-3
+)
+
+(LClass.372
+	IsNoData:	1
+	IsText:	1
+	Label:	"No Data"
+	Precision:	-3
+)
+
+(BMkSym.373
+	Color:	374
+	BgColor:	375
+	Font:	376
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.374
+	Name:	"Transparent"
+)
+
+(TClr.375
+	Name:	"Transparent"
+)
+
+(NFont.376
+	Family:	377
+	Name:	378
+	Style:	379
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.377
+	S:	"@FZShuTi"
+)
+
+(AVStr.378
+	S:	"@FZShuTi"
+)
+
+(AVStr.379
+	S:	"Normal"
+)
+
+(NameDict.380
+)
+
+(NameDict.381
+)
+
+(Thresh.382
+)
+
+(GSet.383
+)
+
+(TxPosPt.384
+	HAlign:	4
+	VAlign:	3
+)
+
+(Table.385
+	Name:	"Attributes of Prasarana.shp"
+	CreationDate:	"Sunday, June 9, 2024 6:10:59 PM"
+	GUIName:	"Table"
+	Win:	386
+	CSMgr:	387
+	DocExts:	389
+	VTab:	321
+)
+
+(DocWin.386
+	Owner:	385
+	X:	35
+	Y:	35
+	W:	671
+	H:	260
+)
+
+(CSMgr.387
+	Client:	388
+)
+
+(CSClient.388
+	Client:	317
+	ReqName:	"RespondTable"
+)
+
+(DocAct.389
+	Doc:	385
+)
+
+(FTheme.390
+	Name:	"Batas kabupaten.shp"
+	Source:	391
+	Flags:	0x06
+	Legend:	400
+	Threshold:	409
+	View:	43
+	GSet:	410
+	LegEditScript:	"View.EditLegend"
+	TxPos:	411
+	Table:	412
+	AttrRules:	417
+	SnapTolCursor:	1
+)
+
+(ShpSrc.391
+	Name:	392
+	FTab:	394
+)
+
+(SrcName.392
+	FileName:	393
+	Name:	"batas kabupaten.shp"
+	SubName:	"Arc"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.393
+	Path:	"d:/batas kabupaten.shp"
+)
+
+(FTab.394
+	Name:	"batas kabupaten.dbf"
+	BTab:	395
+	Fields:	398
+	Fields:	396
+	SelBits:	399
+	FSrc:	391
+)
+
+(dBASE.395
+	Name:	"batas kabupaten.dbf"
+	Fields:	396
+	FileName:	397
+)
+
+(Field.396
+	Name:	"ID"
+	Btab:	395
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(FN.397
+	Path:	"d:/batas kabupaten.dbf"
+)
+
+(Field.398
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	18
+	Order:	-1
+	Pixels:	59
+)
+
+(Bitmap.399
+	NumBits:	3
+	Bits:	00000000 
+)
+
+(Legend.400
+	SymType:	0x01
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	401
+	Class:	404
+	StdDevs:	1.00000000000000
+	NullSym:	405
+	NullValues:	407
+	StatValues:	408
+	Precision:	-3
+)
+
+(SymList.401
+	Child:	402
+)
+
+(BLnSym.402
+	Color:	403
+	Width:	0.10000000000000
+	Pattern:	3.00000000000000
+	Pattern:	1.00000000000000
+	Pattern:	1.00000000000000
+	Pattern:	1.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.403
+)
+
+(LClass.404
+	IsText:	1
+	Precision:	-3
+)
+
+(BLnSym.405
+	Color:	406
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.406
+	Name:	"Transparent"
+)
+
+(NameDict.407
+)
+
+(NameDict.408
+)
+
+(Thresh.409
+)
+
+(GSet.410
+)
+
+(TxPosArc.411
+	HAlign:	3
+	VAlign:	1
+)
+
+(Table.412
+	Name:	"Attributes of Batas kabupaten.shp"
+	CreationDate:	"Sunday, June 9, 2024 5:07:43 PM"
+	GUIName:	"Table"
+	Win:	413
+	CSMgr:	414
+	DocExts:	416
+	VTab:	394
+)
+
+(DocWin.413
+	Owner:	412
+	X:	20
+	Y:	20
+	W:	373
+	H:	260
+)
+
+(CSMgr.414
+	Client:	415
+)
+
+(CSClient.415
+	Client:	390
+	ReqName:	"RespondTable"
+)
+
+(DocAct.416
+	Doc:	412
+)
+
+(AttrSingle.417
+	FTab:	394
+	Field:	396
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.418
+	Name:	"Daerah irigasi.shp"
+	Source:	419
+	Flags:	0x06
+	Legend:	428
+	Threshold:	442
+	View:	43
+	GSet:	443
+	LegEditScript:	"View.EditLegend"
+	TxPos:	444
+	Table:	445
+	AttrRules:	450
+	SnapTolCursor:	1
+)
+
+(ShpSrc.419
+	Name:	420
+	FTab:	422
+)
+
+(SrcName.420
+	FileName:	421
+	Name:	"daerah irigasi.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.421
+	Path:	"d:/peta trenggalek/daerah irigasi.shp"
+)
+
+(FTab.422
+	Name:	"daerah irigasi.dbf"
+	BTab:	423
+	Fields:	426
+	Fields:	424
+	SelBits:	427
+	FSrc:	419
+)
+
+(dBASE.423
+	Name:	"daerah irigasi.dbf"
+	Fields:	424
+	FileName:	425
+)
+
+(Field.424
+	Name:	"ID"
+	Btab:	423
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(FN.425
+	Path:	"d:/peta trenggalek/daerah irigasi.dbf"
+)
+
+(Field.426
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+	Pixels:	53
+)
+
+(Bitmap.427
+	NumBits:	12
+	NumBitsSet:	1
+	Bits:	00000800 
+)
+
+(Legend.428
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	429
+	Class:	435
+	StdDevs:	1.00000000000000
+	NullSym:	436
+	NullValues:	440
+	StatValues:	441
+	Precision:	-3
+)
+
+(SymList.429
+	Child:	430
+)
+
+(BShSym.430
+	Color:	431
+	OutlineColor:	432
+	OutlineWidth:	0.10000000000000
+	BgColor:	433
+	Style:	0x03
+	Stipple:	434
+)
+
+(TClr.431
+	Red:	0xfeff
+	Green:	0xa7ac
+	Blue:	0xfe
+)
+
+(TClr.432
+)
+
+(TClr.433
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(Stipple.434
+	Columns:	8
+	Rows:	8
+	Bits:	bbeebbee bbeebbee 
+)
+
+(LClass.435
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.436
+	Color:	437
+	Outline:	1
+	OutlineColor:	438
+	OutlineWidth:	0.10000000000000
+	BgColor:	439
+)
+
+(TClr.437
+	Name:	"Transparent"
+)
+
+(TClr.438
+	Name:	"Transparent"
+)
+
+(TClr.439
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.440
+)
+
+(NameDict.441
+)
+
+(Thresh.442
+)
+
+(GSet.443
+)
+
+(TxPosPly.444
+	HAlign:	3
+	VAlign:	3
+)
+
+(Table.445
+	Name:	"Attributes of Daerah irigasi.shp"
+	CreationDate:	"Tuesday, June 11, 2024 12:43:52 PM"
+	GUIName:	"Table"
+	Win:	446
+	CSMgr:	447
+	DocExts:	449
+	VTab:	422
+)
+
+(DocWin.446
+	Owner:	445
+	X:	20
+	Y:	20
+	W:	373
+	H:	260
+)
+
+(CSMgr.447
+	Client:	448
+)
+
+(CSClient.448
+	Client:	418
+	ReqName:	"RespondTable"
+)
+
+(DocAct.449
+	Doc:	445
+)
+
+(AttrSingle.450
+	FTab:	422
+	Field:	424
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.451
+	Name:	"Hutan lindung.shp"
+	Source:	452
+	Flags:	0x06
+	Legend:	461
+	Threshold:	475
+	View:	43
+	GSet:	476
+	LegEditScript:	"View.EditLegend"
+	TxPos:	477
+	AttrRules:	478
+)
+
+(ShpSrc.452
+	Name:	453
+	FTab:	455
+)
+
+(SrcName.453
+	FileName:	454
+	Name:	"hutan lindung.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.454
+	Path:	"d:/peta trenggalek/hutan lindung.shp"
+)
+
+(FTab.455
+	Name:	"hutan lindung.dbf"
+	BTab:	456
+	Fields:	459
+	Fields:	457
+	SelBits:	460
+	FSrc:	452
+)
+
+(dBASE.456
+	Name:	"hutan lindung.dbf"
+	Fields:	457
+	FileName:	458
+)
+
+(Field.457
+	Name:	"ID"
+	Btab:	456
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(FN.458
+	Path:	"d:/peta trenggalek/hutan lindung.dbf"
+)
+
+(Field.459
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+)
+
+(Bitmap.460
+	NumBits:	18
+	Bits:	00000000 
+)
+
+(Legend.461
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	462
+	Class:	468
+	StdDevs:	1.00000000000000
+	NullSym:	469
+	NullValues:	473
+	StatValues:	474
+	Precision:	-3
+)
+
+(SymList.462
+	Child:	463
+)
+
+(BShSym.463
+	Color:	464
+	Outline:	1
+	OutlineColor:	465
+	OutlineWidth:	0.10000000000000
+	BgColor:	466
+	Style:	0x03
+	Stipple:	467
+)
+
+(TClr.464
+	Red:	0x303
+	Green:	0xfeff
+	Blue:	0xfe
+)
+
+(TClr.465
+	Name:	"Transparent"
+)
+
+(TClr.466
+	Name:	"Transparent"
+)
+
+(Stipple.467
+	Columns:	8
+	Rows:	8
+	Bits:	88112244 88112244 
+)
+
+(LClass.468
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.469
+	Color:	470
+	Outline:	1
+	OutlineColor:	471
+	OutlineWidth:	0.10000000000000
+	BgColor:	472
+)
+
+(TClr.470
+	Name:	"Transparent"
+)
+
+(TClr.471
+	Name:	"Transparent"
+)
+
+(TClr.472
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.473
+)
+
+(NameDict.474
+)
+
+(Thresh.475
+)
+
+(GSet.476
+)
+
+(TxPosPly.477
+	HAlign:	3
+	VAlign:	3
+)
+
+(AttrSingle.478
+	FTab:	455
+	Field:	457
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.479
+	Name:	"Kanal.shp"
+	Source:	480
+	Flags:	0x06
+	Legend:	489
+	Threshold:	498
+	View:	43
+	GSet:	499
+	LegEditScript:	"View.EditLegend"
+	TxPos:	500
+	AttrRules:	501
+	SnapTolCursor:	1
+)
+
+(ShpSrc.480
+	Name:	481
+	FTab:	483
+)
+
+(SrcName.481
+	FileName:	482
+	Name:	"kanal.shp"
+	SubName:	"Arc"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.482
+	Path:	"d:/peta trenggalek/kanal.shp"
+)
+
+(FTab.483
+	Name:	"kanal.dbf"
+	BTab:	484
+	Fields:	487
+	Fields:	485
+	SelBits:	488
+	FSrc:	480
+)
+
+(dBASE.484
+	Name:	"kanal.dbf"
+	Fields:	485
+	FileName:	486
+)
+
+(Field.485
+	Name:	"ID"
+	Btab:	484
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(FN.486
+	Path:	"d:/peta trenggalek/kanal.dbf"
+)
+
+(Field.487
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	18
+	Order:	-1
+)
+
+(Bitmap.488
+	NumBits:	1
+	NumBitsSet:	1
+	Bits:	00000001 
+)
+
+(Legend.489
+	SymType:	0x01
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	490
+	Class:	493
+	StdDevs:	1.00000000000000
+	NullSym:	494
+	NullValues:	496
+	StatValues:	497
+	Precision:	-3
+)
+
+(SymList.490
+	Child:	491
+)
+
+(BLnSym.491
+	Color:	492
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.492
+	Red:	0xe971
+	Green:	0x449c
+	Blue:	0x6cfd
+)
+
+(LClass.493
+	IsText:	1
+	Precision:	-3
+)
+
+(BLnSym.494
+	Color:	495
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.495
+	Name:	"Transparent"
+)
+
+(NameDict.496
+)
+
+(NameDict.497
+)
+
+(Thresh.498
+)
+
+(GSet.499
+)
+
+(TxPosArc.500
+	HAlign:	3
+	VAlign:	1
+)
+
+(AttrSingle.501
+	FTab:	483
+	Field:	485
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.502
+	Name:	"Jalan strategis nasional rencana (belum tersambung).shp"
+	Source:	503
+	Flags:	0x06
+	Legend:	512
+	Threshold:	521
+	View:	43
+	GSet:	522
+	LegEditScript:	"View.EditLegend"
+	TxPos:	523
+	AttrRules:	524
+	SnapTolCursor:	1
+)
+
+(ShpSrc.503
+	Name:	504
+	FTab:	506
+)
+
+(SrcName.504
+	FileName:	505
+	Name:	"jalan strategis nasional rencana (belum tersambung).shp"
+	SubName:	"Arc"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.505
+	Path:	"d:/peta trenggalek/jalan strategis nasional rencana (belum tersambung).shp"
+)
+
+(FTab.506
+	Name:	"jalan strategis nasional rencana (belum tersambung).dbf"
+	BTab:	507
+	Fields:	510
+	Fields:	508
+	SelBits:	511
+	FSrc:	503
+)
+
+(dBASE.507
+	Name:	"jalan strategis nasional rencana (belum tersambung).dbf"
+	Fields:	508
+	FileName:	509
+)
+
+(Field.508
+	Name:	"ID"
+	Btab:	507
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(FN.509
+	Path:	"d:/peta trenggalek/jalan strategis nasional rencana (belum tersambung).dbf"
+)
+
+(Field.510
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	18
+	Order:	-1
+)
+
+(Bitmap.511
+	NumBits:	1
+	NumBitsSet:	1
+	Bits:	00000001 
+)
+
+(Legend.512
+	SymType:	0x01
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	513
+	Class:	516
+	StdDevs:	1.00000000000000
+	NullSym:	517
+	NullValues:	519
+	StatValues:	520
+	Precision:	-3
+)
+
+(SymList.513
+	Child:	514
+)
+
+(BLnSym.514
+	Color:	515
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.515
+	Red:	0x8096
+	Green:	0xeee4
+	Blue:	0x2a28
+)
+
+(LClass.516
+	IsText:	1
+	Precision:	-3
+)
+
+(BLnSym.517
+	Color:	518
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.518
+	Name:	"Transparent"
+)
+
+(NameDict.519
+)
+
+(NameDict.520
+)
+
+(Thresh.521
+)
+
+(GSet.522
+)
+
+(TxPosArc.523
+	HAlign:	3
+	VAlign:	1
+)
+
+(AttrSingle.524
+	FTab:	506
+	Field:	508
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.525
+	Name:	"Garis pantai.shp"
+	Source:	526
+	Flags:	0x06
+	Legend:	535
+	Threshold:	544
+	View:	43
+	GSet:	545
+	LegEditScript:	"View.EditLegend"
+	TxPos:	546
+	Table:	547
+	AttrRules:	552
+	SnapTolCursor:	1
+)
+
+(ShpSrc.526
+	Name:	527
+	FTab:	529
+)
+
+(SrcName.527
+	FileName:	528
+	Name:	"garis pantai.shp"
+	SubName:	"Arc"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.528
+	Path:	"d:/peta trenggalek/garis pantai.shp"
+)
+
+(FTab.529
+	Name:	"garis pantai.dbf"
+	BTab:	530
+	Fields:	533
+	Fields:	531
+	SelBits:	534
+	FSrc:	526
+)
+
+(dBASE.530
+	Name:	"garis pantai.dbf"
+	Fields:	531
+	FileName:	532
+)
+
+(Field.531
+	Name:	"ID"
+	Btab:	530
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(FN.532
+	Path:	"d:/peta trenggalek/garis pantai.dbf"
+)
+
+(Field.533
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	18
+	Order:	-1
+	Pixels:	59
+)
+
+(Bitmap.534
+	NumBits:	13
+	Bits:	00000000 
+)
+
+(Legend.535
+	SymType:	0x01
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	536
+	Class:	539
+	StdDevs:	1.00000000000000
+	NullSym:	540
+	NullValues:	542
+	StatValues:	543
+	Precision:	-3
+)
+
+(SymList.536
+	Child:	537
+)
+
+(BLnSym.537
+	Color:	538
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.538
+	Red:	0x34e4
+	Green:	0x2d78
+	Blue:	0xcfee
+)
+
+(LClass.539
+	IsText:	1
+	Precision:	-3
+)
+
+(BLnSym.540
+	Color:	541
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.541
+	Name:	"Transparent"
+)
+
+(NameDict.542
+)
+
+(NameDict.543
+)
+
+(Thresh.544
+)
+
+(GSet.545
+)
+
+(TxPosArc.546
+	HAlign:	3
+	VAlign:	1
+)
+
+(Table.547
+	Name:	"Attributes of Garis pantai.shp"
+	CreationDate:	"Tuesday, June 11, 2024 4:54:43 AM"
+	GUIName:	"Table"
+	Win:	548
+	CSMgr:	549
+	DocExts:	551
+	VTab:	529
+)
+
+(DocWin.548
+	Owner:	547
+	Open:	1
+	X:	-8
+	Y:	-8
+	W:	1554
+	H:	722
+)
+
+(CSMgr.549
+	Client:	550
+)
+
+(CSClient.550
+	Client:	525
+	ReqName:	"RespondTable"
+)
+
+(DocAct.551
+	Doc:	547
+)
+
+(AttrSingle.552
+	FTab:	529
+	Field:	531
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.553
+	Name:	"Jalan strategis nasional rencana (tersambung).shp"
+	Source:	554
+	Flags:	0x06
+	Legend:	563
+	Threshold:	572
+	View:	43
+	GSet:	573
+	LegEditScript:	"View.EditLegend"
+	TxPos:	574
+	AttrRules:	575
+	SnapTolCursor:	1
+)
+
+(ShpSrc.554
+	Name:	555
+	FTab:	557
+)
+
+(SrcName.555
+	FileName:	556
+	Name:	"jalan strategis nasional rencana (tersambung).shp"
+	SubName:	"Arc"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.556
+	Path:	"d:/peta trenggalek/jalan strategis nasional rencana (tersambung).shp"
+)
+
+(FTab.557
+	Name:	"jalan strategis nasional rencana (tersambung).dbf"
+	BTab:	558
+	Fields:	561
+	Fields:	559
+	SelBits:	562
+	FSrc:	554
+)
+
+(dBASE.558
+	Name:	"jalan strategis nasional rencana (tersambung).dbf"
+	Fields:	559
+	FileName:	560
+)
+
+(Field.559
+	Name:	"ID"
+	Btab:	558
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(FN.560
+	Path:	"d:/peta trenggalek/jalan strategis nasional rencana (tersambung).dbf"
+)
+
+(Field.561
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	18
+	Order:	-1
+)
+
+(Bitmap.562
+	NumBits:	1
+	NumBitsSet:	1
+	Bits:	00000001 
+)
+
+(Legend.563
+	SymType:	0x01
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	564
+	Class:	567
+	StdDevs:	1.00000000000000
+	NullSym:	568
+	NullValues:	570
+	StatValues:	571
+	Precision:	-3
+)
+
+(SymList.564
+	Child:	565
+)
+
+(BLnSym.565
+	Color:	566
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.566
+	Red:	0x4f7e
+	Green:	0xbf6d
+	Blue:	0x639c
+)
+
+(LClass.567
+	IsText:	1
+	Precision:	-3
+)
+
+(BLnSym.568
+	Color:	569
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.569
+	Name:	"Transparent"
+)
+
+(NameDict.570
+)
+
+(NameDict.571
+)
+
+(Thresh.572
+)
+
+(GSet.573
+)
+
+(TxPosArc.574
+	HAlign:	3
+	VAlign:	1
+)
+
+(AttrSingle.575
+	FTab:	557
+	Field:	559
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.576
+	Name:	"Jalan provinsi.shp"
+	Source:	577
+	Flags:	0x06
+	Legend:	586
+	Threshold:	595
+	View:	43
+	GSet:	596
+	LegEditScript:	"View.EditLegend"
+	TxPos:	597
+	AttrRules:	598
+	SnapTolCursor:	1
+)
+
+(ShpSrc.577
+	Name:	578
+	FTab:	580
+)
+
+(SrcName.578
+	FileName:	579
+	Name:	"jalan provinsi.shp"
+	SubName:	"Arc"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.579
+	Path:	"d:/peta trenggalek/jalan provinsi.shp"
+)
+
+(FTab.580
+	Name:	"jalan provinsi.dbf"
+	BTab:	581
+	Fields:	584
+	Fields:	582
+	SelBits:	585
+	FSrc:	577
+)
+
+(dBASE.581
+	Name:	"jalan provinsi.dbf"
+	Fields:	582
+	FileName:	583
+)
+
+(Field.582
+	Name:	"ID"
+	Btab:	581
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(FN.583
+	Path:	"d:/peta trenggalek/jalan provinsi.dbf"
+)
+
+(Field.584
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	18
+	Order:	-1
+)
+
+(Bitmap.585
+	NumBits:	16
+	NumBitsSet:	1
+	Bits:	00008000 
+)
+
+(Legend.586
+	SymType:	0x01
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	587
+	Class:	590
+	StdDevs:	1.00000000000000
+	NullSym:	591
+	NullValues:	593
+	StatValues:	594
+	Precision:	-3
+)
+
+(SymList.587
+	Child:	588
+)
+
+(BLnSym.588
+	Color:	589
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.589
+	Red:	0x469a
+	Green:	0x98a2
+	Blue:	0xa2c8
+)
+
+(LClass.590
+	IsText:	1
+	Precision:	-3
+)
+
+(BLnSym.591
+	Color:	592
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.592
+	Name:	"Transparent"
+)
+
+(NameDict.593
+)
+
+(NameDict.594
+)
+
+(Thresh.595
+)
+
+(GSet.596
+)
+
+(TxPosArc.597
+	HAlign:	3
+	VAlign:	1
+)
+
+(AttrSingle.598
+	FTab:	580
+	Field:	582
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.599
+	Name:	"Pengairan.shp"
+	Source:	600
+	Flags:	0x06
+	Legend:	611
+	Threshold:	630
+	View:	43
+	GSet:	631
+	LegEditScript:	"View.EditLegend"
+	TxPos:	632
+	Table:	633
+	SnapTolCursor:	1
+)
+
+(ShpSrc.600
+	Name:	601
+	FTab:	603
+)
+
+(SrcName.601
+	FileName:	602
+	Name:	"pengairan.shp"
+	SubName:	"Point"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.602
+	Path:	"d:/peta trenggalek/pengairan.shp"
+)
+
+(FTab.603
+	Name:	"pengairan.dbf"
+	BTab:	604
+	Fields:	609
+	Fields:	605
+	Fields:	606
+	Fields:	607
+	SelBits:	610
+	FSrc:	600
+)
+
+(dBASE.604
+	Name:	"pengairan.dbf"
+	Fields:	605
+	Fields:	606
+	Fields:	607
+	FileName:	608
+)
+
+(Field.605
+	Name:	"ID"
+	Btab:	604
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.606
+	Name:	"pengairan"
+	Btab:	604
+	Alias:	"pengairan"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	101
+)
+
+(Field.607
+	Name:	"keterangan"
+	Btab:	604
+	Alias:	"keterangan"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(FN.608
+	Path:	"d:/peta trenggalek/pengairan.dbf"
+)
+
+(Field.609
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	17
+	Order:	-1
+	Pixels:	41
+)
+
+(Bitmap.610
+	NumBits:	6
+	NumBitsSet:	1
+	Bits:	00000008 
+)
+
+(Legend.611
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	612
+	Class:	620
+	StdDevs:	1.00000000000000
+	NullSym:	621
+	NullValues:	628
+	StatValues:	629
+	Precision:	-3
+)
+
+(SymList.612
+	Child:	613
+)
+
+(BMkSym.613
+	Color:	614
+	BgColor:	615
+	Font:	616
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.614
+	Red:	0xc0b
+	Green:	0x1b41
+	Blue:	0x8569
+)
+
+(TClr.615
+	Name:	"Transparent"
+)
+
+(NFont.616
+	Family:	617
+	Name:	618
+	Style:	619
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.617
+	S:	"@FZShuTi"
+)
+
+(AVStr.618
+	S:	"@FZShuTi"
+)
+
+(AVStr.619
+	S:	"Normal"
+)
+
+(LClass.620
+	IsText:	1
+	Precision:	-3
+)
+
+(BMkSym.621
+	Color:	622
+	BgColor:	623
+	Font:	624
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.622
+	Name:	"Transparent"
+)
+
+(TClr.623
+	Name:	"Transparent"
+)
+
+(NFont.624
+	Family:	625
+	Name:	626
+	Style:	627
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.625
+	S:	"@FZShuTi"
+)
+
+(AVStr.626
+	S:	"@FZShuTi"
+)
+
+(AVStr.627
+	S:	"Normal"
+)
+
+(NameDict.628
+)
+
+(NameDict.629
+)
+
+(Thresh.630
+)
+
+(GSet.631
+)
+
+(TxPosPt.632
+	HAlign:	4
+	VAlign:	3
+)
+
+(Table.633
+	Name:	"Attributes of Pengairan.shp"
+	CreationDate:	"Tuesday, June 11, 2024 4:54:43 AM"
+	GUIName:	"Table"
+	Win:	634
+	CSMgr:	635
+	DocExts:	637
+	VTab:	603
+)
+
+(DocWin.634
+	Owner:	633
+	X:	20
+	Y:	20
+	W:	544
+	H:	260
+)
+
+(CSMgr.635
+	Client:	636
+)
+
+(CSClient.636
+	Client:	599
+	ReqName:	"RespondTable"
+)
+
+(DocAct.637
+	Doc:	633
+)
+
+(FTheme.638
+	Name:	"Jalan nasional.shp"
+	Source:	639
+	Flags:	0x06
+	Legend:	648
+	Threshold:	657
+	View:	43
+	GSet:	658
+	LegEditScript:	"View.EditLegend"
+	TxPos:	659
+	AttrRules:	660
+	SnapTolCursor:	1
+)
+
+(ShpSrc.639
+	Name:	640
+	FTab:	642
+)
+
+(SrcName.640
+	FileName:	641
+	Name:	"jalan nasional.shp"
+	SubName:	"Arc"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.641
+	Path:	"d:/peta trenggalek/jalan nasional.shp"
+)
+
+(FTab.642
+	Name:	"jalan nasional.dbf"
+	BTab:	643
+	Fields:	646
+	Fields:	644
+	SelBits:	647
+	FSrc:	639
+)
+
+(dBASE.643
+	Name:	"jalan nasional.dbf"
+	Fields:	644
+	FileName:	645
+)
+
+(Field.644
+	Name:	"ID"
+	Btab:	643
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(FN.645
+	Path:	"d:/peta trenggalek/jalan nasional.dbf"
+)
+
+(Field.646
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	18
+	Order:	-1
+)
+
+(Bitmap.647
+	NumBits:	2
+	Bits:	00000000 
+)
+
+(Legend.648
+	SymType:	0x01
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	649
+	Class:	652
+	StdDevs:	1.00000000000000
+	NullSym:	653
+	NullValues:	655
+	StatValues:	656
+	Precision:	-3
+)
+
+(SymList.649
+	Child:	650
+)
+
+(BLnSym.650
+	Color:	651
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.651
+	Red:	0x87b2
+	Green:	0x8dac
+	Blue:	0x3ee7
+)
+
+(LClass.652
+	IsText:	1
+	Precision:	-3
+)
+
+(BLnSym.653
+	Color:	654
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.654
+	Name:	"Transparent"
+)
+
+(NameDict.655
+)
+
+(NameDict.656
+)
+
+(Thresh.657
+)
+
+(GSet.658
+)
+
+(TxPosArc.659
+	HAlign:	3
+	VAlign:	1
+)
+
+(AttrSingle.660
+	FTab:	642
+	Field:	644
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.661
+	Name:	"Garis kecamatan.shp"
+	Source:	662
+	Flags:	0x06
+	Legend:	671
+	Threshold:	680
+	View:	43
+	GSet:	681
+	LegEditScript:	"View.EditLegend"
+	TxPos:	682
+	Table:	683
+	AttrRules:	688
+	SnapTolCursor:	1
+)
+
+(ShpSrc.662
+	Name:	663
+	FTab:	665
+)
+
+(SrcName.663
+	FileName:	664
+	Name:	"garis kecamatan.shp"
+	SubName:	"Arc"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.664
+	Path:	"d:/peta trenggalek/garis kecamatan.shp"
+)
+
+(FTab.665
+	Name:	"garis kecamatan.dbf"
+	BTab:	666
+	Fields:	669
+	Fields:	667
+	SelBits:	670
+	FSrc:	662
+)
+
+(dBASE.666
+	Name:	"garis kecamatan.dbf"
+	Fields:	667
+	FileName:	668
+)
+
+(Field.667
+	Name:	"ID"
+	Btab:	666
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(FN.668
+	Path:	"d:/peta trenggalek/garis kecamatan.dbf"
+)
+
+(Field.669
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	18
+	Order:	-1
+	Pixels:	59
+)
+
+(Bitmap.670
+	NumBits:	18
+	NumBitsSet:	1
+	Bits:	00020000 
+)
+
+(Legend.671
+	SymType:	0x01
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	672
+	Class:	675
+	StdDevs:	1.00000000000000
+	NullSym:	676
+	NullValues:	678
+	StatValues:	679
+	Precision:	-3
+)
+
+(SymList.672
+	Child:	673
+)
+
+(BLnSym.673
+	Color:	674
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.674
+	Red:	0x4d02
+	Green:	0xabd7
+	Blue:	0xa662
+)
+
+(LClass.675
+	IsText:	1
+	Precision:	-3
+)
+
+(BLnSym.676
+	Color:	677
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.677
+	Name:	"Transparent"
+)
+
+(NameDict.678
+)
+
+(NameDict.679
+)
+
+(Thresh.680
+)
+
+(GSet.681
+)
+
+(TxPosArc.682
+	HAlign:	3
+	VAlign:	1
+)
+
+(Table.683
+	Name:	"Attributes of Garis kecamatan.shp"
+	CreationDate:	"Tuesday, June 11, 2024 10:14:22 AM"
+	GUIName:	"Table"
+	Win:	684
+	CSMgr:	685
+	DocExts:	687
+	VTab:	665
+)
+
+(DocWin.684
+	Owner:	683
+	X:	20
+	Y:	20
+	W:	373
+	H:	260
+)
+
+(CSMgr.685
+	Client:	686
+)
+
+(CSClient.686
+	Client:	661
+	ReqName:	"RespondTable"
+)
+
+(DocAct.687
+	Doc:	683
+)
+
+(AttrSingle.688
+	FTab:	665
+	Field:	667
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.689
+	Name:	"Kabupaten trenggalek.shp"
+	Source:	690
+	Flags:	0x06
+	Legend:	699
+	Threshold:	712
+	View:	43
+	GSet:	713
+	LegEditScript:	"View.EditLegend"
+	TxPos:	714
+	AttrRules:	715
+	SnapTolCursor:	1
+)
+
+(ShpSrc.690
+	Name:	691
+	FTab:	693
+)
+
+(SrcName.691
+	FileName:	692
+	Name:	"kabupaten trenggalek.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.692
+	Path:	"d:/peta trenggalek/kabupaten trenggalek.shp"
+)
+
+(FTab.693
+	Name:	"kabupaten trenggalek.dbf"
+	BTab:	694
+	Fields:	697
+	Fields:	695
+	SelBits:	698
+	FSrc:	690
+)
+
+(dBASE.694
+	Name:	"kabupaten trenggalek.dbf"
+	Fields:	695
+	FileName:	696
+)
+
+(Field.695
+	Name:	"ID"
+	Btab:	694
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(FN.696
+	Path:	"d:/peta trenggalek/kabupaten trenggalek.dbf"
+)
+
+(Field.697
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+)
+
+(Bitmap.698
+
+)
+
+(Legend.699
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	700
+	Class:	705
+	StdDevs:	1.00000000000000
+	NullSym:	706
+	NullValues:	710
+	StatValues:	711
+	Precision:	-3
+)
+
+(SymList.700
+	Child:	701
+)
+
+(BShSym.701
+	Color:	702
+	Outline:	1
+	OutlineColor:	703
+	OutlineWidth:	0.10000000000000
+	BgColor:	704
+)
+
+(TClr.702
+	Red:	0x930f
+	Green:	0x2dc5
+	Blue:	0x3480
+)
+
+(TClr.703
+)
+
+(TClr.704
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.705
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.706
+	Color:	707
+	Outline:	1
+	OutlineColor:	708
+	OutlineWidth:	0.10000000000000
+	BgColor:	709
+)
+
+(TClr.707
+	Name:	"Transparent"
+)
+
+(TClr.708
+	Name:	"Transparent"
+)
+
+(TClr.709
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.710
+)
+
+(NameDict.711
+)
+
+(Thresh.712
+)
+
+(GSet.713
+)
+
+(TxPosPly.714
+	HAlign:	3
+	VAlign:	3
+)
+
+(AttrSingle.715
+	FTab:	693
+	Field:	695
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.716
+	Name:	"Theme1.shp"
+	Source:	717
+	Flags:	0x06
+	Legend:	726
+	Threshold:	739
+	View:	43
+	GSet:	740
+	LegEditScript:	"View.EditLegend"
+	TxPos:	741
+	AttrRules:	742
+	SnapTolCursor:	1
+)
+
+(ShpSrc.717
+	Name:	718
+	FTab:	720
+	Snapping:	1
+)
+
+(SrcName.718
+	FileName:	719
+	Name:	"theme1.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.719
+	Path:	"d:/peta trenggalek/theme1.shp"
+)
+
+(FTab.720
+	Name:	"theme1.dbf"
+	BTab:	721
+	Fields:	724
+	Fields:	722
+	SelBits:	725
+	FSrc:	717
+)
+
+(dBASE.721
+	Name:	"theme1.dbf"
+	Fields:	722
+	FileName:	723
+)
+
+(Field.722
+	Name:	"ID"
+	Btab:	721
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(FN.723
+	Path:	"d:/peta trenggalek/theme1.dbf"
+)
+
+(Field.724
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+)
+
+(Bitmap.725
+
+)
+
+(Legend.726
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	727
+	Class:	732
+	StdDevs:	1.00000000000000
+	NullSym:	733
+	NullValues:	737
+	StatValues:	738
+	Precision:	-3
+)
+
+(SymList.727
+	Child:	728
+)
+
+(BShSym.728
+	Color:	729
+	Outline:	1
+	OutlineColor:	730
+	OutlineWidth:	0.10000000000000
+	BgColor:	731
+)
+
+(TClr.729
+	Red:	0x7c6
+	Green:	0xa8fe
+	Blue:	0x75be
+)
+
+(TClr.730
+)
+
+(TClr.731
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.732
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.733
+	Color:	734
+	Outline:	1
+	OutlineColor:	735
+	OutlineWidth:	0.10000000000000
+	BgColor:	736
+)
+
+(TClr.734
+	Name:	"Transparent"
+)
+
+(TClr.735
+	Name:	"Transparent"
+)
+
+(TClr.736
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.737
+)
+
+(NameDict.738
+)
+
+(Thresh.739
+)
+
+(GSet.740
+)
+
+(TxPosPly.741
+	HAlign:	3
+	VAlign:	3
+)
+
+(AttrSingle.742
+	FTab:	720
+	Field:	722
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(ITheme.743
+	Name:	"Peta kabupaten trenggalek.bmp"
+	Source:	744
+	Flags:	0x06
+	Legend:	751
+	Threshold:	755
+	View:	43
+	GSet:	756
+	LegEditScript:	"View.EditLegend"
+)
+
+(ISrc.744
+	Name:	745
+	MapBox:	747
+	BandStats:	748
+	BandStats:	749
+	BandStats:	750
+)
+
+(SrcName.745
+	FileName:	746
+	Name:	"peta kabupaten trenggalek.bmp"
+	OwnerClass:	"ISrc"
+)
+
+(FN.746
+	Path:	"d:/peta trenggalek/peta kabupaten trenggalek.bmp"
+)
+
+(RectD.747
+	Left:	111.31120218691322
+	Top:	-7.84540726902341
+	Right:	112.11804143932638
+	Bottom:	-8.42160796299901
+)
+
+(BStat.748
+	Max:	255.00000000000000
+	Mean:	127.50000000000000
+	StDv:	63.75000000000000
+)
+
+(BStat.749
+	Max:	255.00000000000000
+	Mean:	127.50000000000000
+	StDv:	63.75000000000000
+)
+
+(BStat.750
+	Max:	255.00000000000000
+	Mean:	127.50000000000000
+	StDv:	63.75000000000000
+)
+
+(MBILeg.751
+	GreenBand:	1
+	BlueBand:	2
+	RedLUT:	752
+	GreenLUT:	753
+	BlueLUT:	754
+)
+
+(ILUTIdn.752
+)
+
+(ILUTIdn.753
+)
+
+(ILUTIdn.754
+)
+
+(Thresh.755
+)
+
+(GSet.756
+)
+
+(GSet.757
+)
+
+(TxPosPt.758
+	HAlign:	4
+	VAlign:	3
+)
+
+(DocAct.759
+	Doc:	6
+)
+
+(Table.760
+	Name:	"Attributes of Bandar udara.shp"
+	CreationDate:	"Sunday, June 9, 2024 6:17:54 PM"
+	GUIName:	"Table"
+	Win:	761
+	CSMgr:	762
+	DocExts:	763
+	VTab:	764
+)
+
+(DocWin.761
+	Owner:	760
+	X:	50
+	Y:	50
+	W:	373
+	H:	260
+)
+
+(CSMgr.762
+)
+
+(DocAct.763
+	Doc:	760
+)
+
+(FTab.764
+	Name:	"bandar udara.dbf"
+	BTab:	765
+	Fields:	768
+	Fields:	766
+	SelBits:	769
+	FSrc:	770
+)
+
+(dBASE.765
+	Name:	"bandar udara.dbf"
+	Fields:	766
+	FileName:	767
+)
+
+(Field.766
+	Name:	"ID"
+	Btab:	765
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(FN.767
+	Path:	"d:/peta trenggalek/bandar udara.dbf"
+)
+
+(Field.768
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	17
+	Order:	-1
+	Pixels:	41
+)
+
+(Bitmap.769
+	NumBits:	4
+
+)
+
+(ShpSrc.770
+	Name:	771
+	FTab:	764
+)
+
+(SrcName.771
+	FileName:	772
+	Name:	"bandar udara.shp"
+	SubName:	"Point"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.772
+	Path:	"d:/peta trenggalek/bandar udara.shp"
+)
+
+(LButn.773
+	HelpTopic:	"New_button"
+	Update:	"Doc.NewUpdate"
+	Label:	"&New"
+	Click:	"Table.New"
+)
+
+(LButn.774
+	HelpTopic:	"Open_button"
+	Update:	"Doc.OpenUpdate"
+	Label:	"&Open"
+	Click:	"Doc.Open"
+)
+
+(LButn.775
+	HelpTopic:	"Print_button"
+	Update:	"Table.ActionUpdate"
+	Label:	"P&rint"
+	Click:	"Table.Action"
+)
+
+(FN.776
+	Path:	"$AVEXT/jfif.avx"
+)
+
+(FN.777
+	Path:	"$AVEXT/transform (1).avx"
+)
+
+(FN.778
+	Path:	"$AVEXT/imagine.avx"
+)
+
+(NameDict.779
+)
+
+(NameDict.807
+	Obj:	808
+	Obj:	809
+)
+
+(AVDict.808
+	InternalName:	"Table of Contents Defaults Dialog"
+)
+
+(AVDict.809
+	InternalName:	"_Thor_"
+)
+
+(DocGUI.810
+	Name:	"View"
+	Type:	"View"
+	Modified:	1
+	Visible:	1
+	MenuBar:	811
+	ButnBar:	930
+	Popups:	971
+	ToolBar:	993
+	NewScript:	"View.New"
+	OpenScript:	"Doc.Open"
+	ActionScript:	"Doc.Action"
+	NewUpdateScript:	"Doc.NewUpdate"
+	OpenUpdateScript:	"Doc.OpenUpdate"
+	ActionUpdateScript:	"Doc.ActionUpdate"
+	Title:	"Views"
+	Icon:	1070
+)
+
+(MenuBar.811
+	Child:	812
+	Child:	829
+	Child:	849
+	Child:	874
+	Child:	897
+	Child:	913
+	Child:	925
+)
+
+(PMenu.812
+	InternalName:	"File"
+	Child:	813
+	Child:	814
+	Child:	815
+	Child:	816
+	Child:	817
+	Child:	818
+	Child:	819
+	Child:	820
+	Child:	821
+	Child:	822
+	Child:	823
+	Child:	824
+	Child:	825
+	Child:	826
+	Child:	827
+	Child:	828
+	Label:	"&File"
+)
+
+(Choice.813
+	Help:	"Closes the active component"
+	HelpTopic:	"Close"
+	Label:	"&Close"
+	Click:	"Project.CloseDoc"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.814
+	Help:	"Closes all components"
+	HelpTopic:	"Close_All"
+	Label:	"Close &All"
+	Click:	"Project.CloseAll"
+	Shortcut:	"Keys.None"
+)
+
+(Space.815
+)
+
+(Choice.816
+	Help:	"Allows you to specify the current working directory"
+	HelpTopic:	"Set_Working_Directory"
+	Label:	"Set &Working Directory..."
+	Click:	"Project.SetProjectWorkDir"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.817
+	Help:	"Saves the current project"
+	HelpTopic:	"Save_Project"
+	Label:	"&Save Project"
+	Click:	"Project.Save"
+	Shortcut:	"Keys.Ctrl+S"
+)
+
+(Choice.818
+	Help:	"Saves the current project with a new name"
+	HelpTopic:	"Save_Project_As"
+	Label:	"Save Project As..."
+	Click:	"Project.SaveAs"
+	Shortcut:	"Keys.None"
+)
+
+(Space.819
+)
+
+(Choice.820
+	Help:	"Displays the Extensions dialog"
+	HelpTopic:	"Extensions"
+	Label:	"Extensions..."
+	Click:	"Appl.GetExtensionWin"
+	Shortcut:	"Keys.None"
+)
+
+(Space.821
+)
+
+(Choice.822
+	Help:	"Prints the view"
+	HelpTopic:	"Print"
+	Label:	"&Print..."
+	Click:	"View.Print"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.823
+	Help:	"Edits the printer and the printing options"
+	HelpTopic:	"Print_Setup"
+	Label:	"P&rint Setup..."
+	Click:	"Project.PrintSetup"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.824
+	Help:	"Exports the view"
+	HelpTopic:	"Export"
+	Update:	"View.HasThemesUpdate"
+	Label:	"&Export..."
+	Click:	"View.ExportDisp"
+	Shortcut:	"Keys.None"
+)
+
+(Space.825
+)
+
+(Choice.826
+	Help:	"Displays the dialog box to delete, edit, and copy data sources"
+	HelpTopic:	"Manage_Sources"
+	Label:	"&Manage Data Sources..."
+	Click:	"View.ManageSources"
+	Shortcut:	"Keys.None"
+)
+
+(Space.827
+)
+
+(Choice.828
+	Help:	"Exits ArcView"
+	HelpTopic:	"Exit"
+	Label:	"E&xit"
+	Click:	"Project.Exit"
+	Shortcut:	"Keys.None"
+)
+
+(PMenu.829
+	InternalName:	"Edit"
+	Child:	830
+	Child:	831
+	Child:	832
+	Child:	833
+	Child:	834
+	Child:	835
+	Child:	836
+	Child:	837
+	Child:	838
+	Child:	839
+	Child:	840
+	Child:	841
+	Child:	842
+	Child:	843
+	Child:	844
+	Child:	845
+	Child:	846
+	Child:	847
+	Child:	848
+	Label:	"&Edit"
+)
+
+(Choice.830
+	Help:	"Cuts the active themes to the clipboard"
+	HelpTopic:	"Cut_Themes"
+	Update:	"View.ActiveDeletableThemesUpdate"
+	Label:	"Cut T&hemes"
+	Click:	"View.CutThemes"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.831
+	Help:	"Copies the active themes to the clipboard"
+	HelpTopic:	"Copy_Themes"
+	Update:	"View.ActiveThemesUpdate"
+	Label:	"Cop&y Themes"
+	Click:	"View.CopyThemes"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.832
+	Help:	"Removes the active themes from the view"
+	HelpTopic:	"Delete_Themes"
+	Update:	"View.ActiveDeletableThemesUpdate"
+	Label:	"De&lete Themes"
+	Click:	"View.DeleteThemes"
+	Shortcut:	"Keys.None"
+)
+
+(Space.833
+)
+
+(Choice.834
+	Disabled:	1
+	Help:	"Undo the last edit to graphics on a view"
+	HelpTopic:	"Undo_Graphic_Edit_on_a_view"
+	Update:	"View.UndoEditUpdate"
+	Label:	"&Undo Graphic Edit"
+	Click:	"View.UndoEdit"
+	Shortcut:	"Keys.Ctrl+Z"
+)
+
+(Choice.835
+	Disabled:	1
+	Invisible:	1
+	Help:	"Redo the last edit operation on a theme that was undone"
+	HelpTopic:	"Redo_Feature_Edit_on_a_view"
+	Update:	"View.RedoEditUpdate"
+	Label:	"&Redo Feature Edit"
+	Click:	"View.RedoEdit"
+	Shortcut:	"Keys.Ctrl+Y"
+)
+
+(Space.836
+)
+
+(Choice.837
+	Disabled:	1
+	Help:	"Cuts the selected graphics to the clipboard"
+	HelpTopic:	"Cut_Graphics"
+	Update:	"View.CutUpdate"
+	Label:	"Cu&t Graphics"
+	Click:	"View.CutGraphics"
+	Shortcut:	"Keys.Ctrl+X"
+)
+
+(Choice.838
+	Disabled:	1
+	Help:	"Copies the selected graphics to the clipboard"
+	HelpTopic:	"Copy_Graphics"
+	Update:	"View.CopyUpdate"
+	Label:	"&Copy Graphics"
+	Click:	"View.CopyGraphics"
+	Shortcut:	"Keys.Ctrl+C"
+)
+
+(Choice.839
+	Disabled:	1
+	Help:	"Removes the selected graphics from the view"
+	HelpTopic:	"Delete_Graphics"
+	Update:	"View.DeleteUpdate"
+	Label:	"&Delete Graphics"
+	Click:	"View.DeleteGraphics"
+	Shortcut:	"Keys.Del"
+)
+
+(Space.840
+)
+
+(Choice.841
+	Disabled:	1
+	Help:	"Combines the selected polygons"
+	HelpTopic:	"Combine_Graphics"
+	Update:	"View.CombineUpdate"
+	Label:	"Com&bine Graphics"
+	Click:	"View.CombineGraphics"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.842
+	Disabled:	1
+	Help:	"Unions the selected graphics to create a new graphic"
+	HelpTopic:	"Union_Graphics"
+	Update:	"View.UnionUpdate"
+	Label:	"U&nion Graphics"
+	Click:	"View.UnionGraphics"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.843
+	Disabled:	1
+	Help:	"Subtracts one selected polygon from the other selected polygon"
+	HelpTopic:	"Subtract_Graphics"
+	Update:	"View.SubtractUpdate"
+	Label:	"&Subtract Graphics"
+	Click:	"View.SubtractGraphics"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.844
+	Disabled:	1
+	Help:	"Creates a new polygon from the area  of overlap between the selected polygons"
+	HelpTopic:	"Intersect_Graphics"
+	Update:	"View.IntersectUpdate"
+	Label:	"&Intersect Graphics"
+	Click:	"View.IntersectGraphics"
+	Shortcut:	"Keys.None"
+)
+
+(Space.845
+)
+
+(Choice.846
+	Help:	"Inserts the contents of the clipboard"
+	HelpTopic:	"Paste"
+	Update:	"View.PasteUpdate"
+	Label:	"&Paste"
+	Click:	"View.Paste"
+	Shortcut:	"Keys.Ctrl+V"
+)
+
+(Space.847
+)
+
+(Choice.848
+	Help:	"Selects all graphics in the view"
+	HelpTopic:	"Select_All_Graphics"
+	Update:	"View.HasGraphicsUpdate"
+	Label:	"Select &All Graphics"
+	Click:	"Graphic.SelectAll"
+	Shortcut:	"Keys.None"
+)
+
+(PMenu.849
+	InternalName:	"View"
+	Child:	850
+	Child:	851
+	Child:	852
+	Child:	853
+	Child:	854
+	Child:	855
+	Child:	856
+	Child:	857
+	Child:	858
+	Child:	859
+	Child:	860
+	Child:	861
+	Child:	862
+	Child:	863
+	Child:	864
+	Child:	865
+	Child:	866
+	Child:	867
+	Child:	868
+	Child:	869
+	Child:	870
+	Child:	871
+	Label:	"&View"
+)
+
+(Choice.850
+	Help:	"Displays the dialog box to edit properties of the view"
+	HelpTopic:	"View_Properties"
+	Label:	"&Properties..."
+	Click:	"View.Properties"
+	Shortcut:	"Keys.None"
+)
+
+(Space.851
+)
+
+(Choice.852
+	Help:	"Inserts themes into the view"
+	HelpTopic:	"Add_Theme"
+	Label:	"&Add Theme..."
+	Click:	"View.Add"
+	Shortcut:	"Keys.Ctrl+T"
+)
+
+(Choice.853
+	Disabled:	1
+	Help:	"Displays a dialog box to create a geocoded theme"
+	HelpTopic:	"Geocode_Addresses"
+	Update:	"View.GeocodeUpdate"
+	Label:	"&Geocode Addresses..."
+	Click:	"View.Geocode"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.854
+	Help:	"Displays a dialog box to create an XY or dynamic segmentation event-based theme "
+	HelpTopic:	"Add_Event_Theme"
+	Update:	"View.AddEventUpdate"
+	Label:	"Add &Event Theme..."
+	Click:	"View.AddEvent"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.855
+	Help:	"Creates a new theme"
+	HelpTopic:	"New_Theme"
+	Label:	"&New Theme..."
+	Click:	"View.NewTheme"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.856
+	Help:	"Makes all themes visible"
+	HelpTopic:	"Themes_On_Themes_Off"
+	Update:	"View.HasThemesUpdate"
+	Label:	"&Themes On"
+	Click:	"View.ThemesOn"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.857
+	Help:	"Makes all themes invisible"
+	HelpTopic:	"Themes_On_Themes_Off"
+	Update:	"View.HasThemesUpdate"
+	Label:	"T&hemes Off"
+	Click:	"View.ThemesOff"
+	Shortcut:	"Keys.None"
+)
+
+(Space.858
+)
+
+(Choice.859
+	Help:	"Create a Layout from the View"
+	HelpTopic:	"Layout_menu_choice"
+	Update:	"View.HasThemesUpdate"
+	Label:	"La&yout..."
+	Click:	"View.Layout"
+	Shortcut:	"Keys.None"
+)
+
+(Space.860
+)
+
+(Choice.861
+	Help:	"Shows a dialog where you can change the style of the TOC"
+	HelpTopic:	"TOC_Defaults"
+	Update:	"TocDefs.ShowUpdate"
+	Label:	"TOC Style..."
+	Click:	"TocDefs.Show"
+	Shortcut:	"Keys.None"
+)
+
+(Space.862
+)
+
+(Choice.863
+	Help:	"Zooms to the extent of all themes"
+	HelpTopic:	"Zoom_to_Full_Extent"
+	Update:	"View.HasDataUpdate"
+	Label:	"Full E&xtent"
+	Click:	"View.ZoomFullExtent"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.864
+	Help:	"Zooms in on the center of the display"
+	HelpTopic:	"Zoom_In"
+	Update:	"View.HasDataUpdate"
+	Label:	"Zoom &In"
+	Click:	"View.ZoomIn"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.865
+	Help:	"Zooms out from the center of the display"
+	HelpTopic:	"Zoom_Out"
+	Update:	"View.HasDataUpdate"
+	Label:	"Zoom &Out"
+	Click:	"View.ZoomOut"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.866
+	Help:	"Zooms to the extent of active themes"
+	HelpTopic:	"Zoom_to_Active_Theme"
+	Update:	"View.ActiveThemesUpdate"
+	Label:	"&Zoom To Themes"
+	Click:	"View.ZoomToThemes"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.867
+	Help:	"Zooms to the extent of the selected features"
+	HelpTopic:	"Zoom_to_Selected"
+	Update:	"View.SelectableThemesUpdate"
+	Label:	"Zoom To &Selected"
+	Click:	"View.ZoomToSelected"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.868
+	Help:	"Goes back to the previous extent you were viewing"
+	HelpTopic:	"Zoom_Previous"
+	Update:	"View.UndoZoomUpdate"
+	Label:	"Zoom Pre&vious"
+	Click:	"View.UndoZoom"
+	Shortcut:	"Keys.None"
+)
+
+(Space.869
+)
+
+(Choice.870
+	Help:	"Finds features in the active themes using the text you enter"
+	HelpTopic:	"Find"
+	Update:	"View.TabularThemesUpdate"
+	Label:	"&Find..."
+	Click:	"View.Find"
+	Shortcut:	"Keys.Ctrl+F"
+)
+
+(Choice.871
+	Disabled:	1
+	Help:	"Locates an address in the active, matchable theme"
+	HelpTopic:	"Locate_Address"
+	Update:	"View.LocateUpdate"
+	Label:	"&Locate Address..."
+	Click:	"View.Locate"
+	Shortcut:	"Keys.None"
+)
+
+(PMenu.874
+	InternalName:	"Theme"
+	Child:	875
+	Child:	876
+	Child:	877
+	Child:	878
+	Child:	879
+	Child:	880
+	Child:	881
+	Child:	882
+	Child:	883
+	Child:	884
+	Child:	885
+	Child:	886
+	Child:	887
+	Child:	888
+	Child:	889
+	Child:	890
+	Child:	891
+	Child:	892
+	Child:	893
+	Child:	894
+	Child:	895
+	Child:	896
+	Label:	"&Theme"
+)
+
+(Choice.875
+	Help:	"Displays the dialog box to edit properties of the active theme"
+	HelpTopic:	"Theme_Properties"
+	Update:	"View.ActiveThemesUpdate"
+	Label:	"&Properties..."
+	Click:	"View.ThemeProperties"
+	Shortcut:	"Keys.None"
+)
+
+(Space.876
+)
+
+(Choice.877
+	Help:	"Starts or stops editing of shapefile"
+	HelpTopic:	"Start_Stop_Editing_in_a_view"
+	Update:	"View.ToggleEditingUpdate"
+	Label:	"Start &Editing"
+	Click:	"View.ToggleEditing"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.878
+	Disabled:	1
+	Help:	"Save edits to the source shapefile"
+	HelpTopic:	"Save_edits_theme"
+	Update:	"View.SaveEditsUpdate"
+	Label:	"Save Ed&its"
+	Click:	"View.SaveEdits"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.879
+	Disabled:	1
+	Help:	"Saves edits to a new shapefile"
+	HelpTopic:	"Save_edits_as_theme"
+	Update:	"View.SaveEditsUpdate"
+	Label:	"Save E&dits As..."
+	Click:	"View.SaveEditsAs"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.880
+	Help:	"Converts a theme to a shapefile"
+	HelpTopic:	"Convert_to_Shapefile"
+	Update:	"View.ExportUpdate"
+	Label:	"Convert to &Shapefile..."
+	Click:	"View.Export"
+	Shortcut:	"Keys.None"
+)
+
+(Space.881
+)
+
+(Choice.882
+	Help:	"Displays the legends of the active themes"
+	HelpTopic:	"Edit_Legend"
+	Update:	"View.ActiveThemesUpdate"
+	Label:	"Edit &Legend..."
+	Click:	"View.EditLegendClick"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.883
+	Help:	"Shows or hides the active themes' legends"
+	HelpTopic:	"Hide_show_Legend"
+	Update:	"View.ActiveThemesUpdate"
+	Label:	"&Hide/Show Legend"
+	Click:	"View.ToggleLegend"
+	Shortcut:	"Keys.None"
+)
+
+(Space.884
+)
+
+(Choice.885
+	Disabled:	1
+	Help:	"Displays the Re-match dialog for re-matching addresses"
+	HelpTopic:	"Re_match_Addresses"
+	Update:	"View.EditMatchUpdate"
+	Label:	"&Re-match Addresses..."
+	Click:	"View.EditMatch"
+	Shortcut:	"Keys.None"
+)
+
+(Space.886
+)
+
+(Choice.887
+	Help:	"Labels features in active, visible themes"
+	HelpTopic:	"Auto_label"
+	Update:	"View.LabelThemesUpdate"
+	Label:	"&Auto-label..."
+	Click:	"View.LabelThemes"
+	Shortcut:	"Keys.Ctrl+L"
+)
+
+(Choice.888
+	Disabled:	1
+	Help:	"Removes any labels from active themes"
+	HelpTopic:	"Remove_Labels"
+	Update:	"View.RemoveThemeLabelsUpdate"
+	Label:	"Rem&ove Labels"
+	Click:	"View.RemoveThemeLabels"
+	Shortcut:	"Keys.Ctrl+R"
+)
+
+(Choice.889
+	Disabled:	1
+	Help:	"Removes the overlapping labels from active themes, if they are still green."
+	HelpTopic:	"Remove_Overlapping_Labels"
+	Update:	"View.RemoveOverlapThemeLabelsUpdate"
+	Label:	"Remove Overlappi&ng Labels"
+	Click:	"View.RemoveOverlapThemeLabels"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.890
+	Disabled:	1
+	Help:	"Converts selected overlapping labels to symbol of selected good label"
+	HelpTopic:	"Convert_Overlapping_Labels"
+	Update:	"View.ConvertOverlapLabelsUpdate"
+	Label:	"&Convert Overlapping Labels"
+	Click:	"View.ConvertOverlapLabels"
+	Shortcut:	"Keys.Ctrl+O"
+)
+
+(Space.891
+)
+
+(Choice.892
+	Help:	"Opens the tables of the active themes"
+	HelpTopic:	"Open_Theme_Table"
+	Update:	"View.TabularThemesUpdate"
+	Label:	"&Table..."
+	Click:	"View.ShowTable"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.893
+	Help:	"Displays the Query Builder to select features with a logical expression"
+	HelpTopic:	"Query_Builder"
+	Update:	"View.AttributeThemesUpdate"
+	Label:	"&Query..."
+	Click:	"View.Query"
+	Shortcut:	"Keys.Ctrl+Q"
+)
+
+(Choice.894
+	Help:	"Selects features in the active themes using another theme's features"
+	HelpTopic:	"Select_By_Theme"
+	Update:	"View.SelectableThemesUpdate"
+	Label:	"Select &By Theme..."
+	Click:	"View.SelectByTheme"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.895
+	Help:	"Creates buffers around features"
+	HelpTopic:	"Create_Buffer_Choice"
+	Update:	"WizardBuffer.OpenDialogUpdate"
+	Label:	"Create Buffers..."
+	Click:	"WizardBuffer.OpenDialog"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.896
+	Help:	"Unselects the selected features of all active themes"
+	HelpTopic:	"Clear_Selected_Features"
+	Update:	"View.AttributeThemesUpdate"
+	Label:	"Clear Selected &Features"
+	Click:	"View.ClearSelect"
+	Shortcut:	"Keys.None"
+)
+
+(PMenu.897
+	InternalName:	"Graphics"
+	Child:	898
+	Child:	899
+	Child:	900
+	Child:	901
+	Child:	902
+	Child:	903
+	Child:	904
+	Child:	905
+	Child:	906
+	Child:	907
+	Child:	908
+	Child:	909
+	Child:	910
+	Child:	911
+	Child:	912
+	Label:	"&Graphics"
+)
+
+(Choice.898
+	Disabled:	1
+	Help:	"Displays the property editor for the selected graphic"
+	HelpTopic:	"Graphic_Properties"
+	Update:	"Graphic.HasSelectionUpdate"
+	Label:	"&Properties..."
+	Click:	"Graphic.Edit"
+	Shortcut:	"Keys.None"
+)
+
+(Space.899
+)
+
+(Choice.900
+	Help:	"Shows a dialog where you can set the default values for the label and text tools"
+	HelpTopic:	"Default_settings_for_text_and_label_tools"
+	Label:	"&Text and Label Defaults..."
+	Click:	"Graphic.Label Defaults Show"
+	Shortcut:	"Keys.None"
+)
+
+(Space.901
+)
+
+(Choice.902
+	Disabled:	1
+	Help:	"Displays a dialog box to adjust size and position of selected graphic"
+	HelpTopic:	"Size_and_Position"
+	Update:	"Graphic.SingleSelectionUpdate"
+	Label:	"&Size and Position..."
+	Click:	"Graphic.SizePos"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.903
+	Disabled:	1
+	Help:	"Aligns the selected graphics"
+	HelpTopic:	"Align"
+	Update:	"Graphic.HasSelectionUpdate"
+	Label:	"&Align..."
+	Click:	"Graphic.Align"
+	Shortcut:	"Keys.Ctrl+A"
+)
+
+(Space.904
+)
+
+(Choice.905
+	Disabled:	1
+	Help:	"Moves selected graphics in front of other graphics"
+	HelpTopic:	"Bring_to_Front_on_a_view"
+	Update:	"Graphic.HasSelectionUpdate"
+	Label:	"Bring to &Front"
+	Click:	"Graphic.ToFront"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.906
+	Disabled:	1
+	Help:	"Moves selected graphics behind other graphics"
+	HelpTopic:	"Send_to_Back_on_a_view"
+	Update:	"Graphic.HasSelectionUpdate"
+	Label:	"Send to &Back "
+	Click:	"Graphic.ToBack"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.907
+	Disabled:	1
+	Help:	"Groups selected graphics"
+	HelpTopic:	"Group_on_a_view"
+	Update:	"Graphic.GroupUpdate"
+	Label:	"&Group"
+	Click:	"Graphic.Group"
+	Shortcut:	"Keys.Ctrl+G"
+)
+
+(Choice.908
+	Disabled:	1
+	Help:	"Ungroups selected graphics"
+	HelpTopic:	"Ungroup_on_a_view"
+	Update:	"Graphic.UngroupUpdate"
+	Label:	"&Ungroup"
+	Click:	"Graphic.Ungroup"
+	Shortcut:	"Keys.Ctrl+U"
+)
+
+(Space.909
+)
+
+(Choice.910
+	Disabled:	1
+	Help:	"Associates selected graphics with active themes"
+	HelpTopic:	"Attach_Graphics"
+	Update:	"View.AddGraphicsUpdate"
+	Label:	"A&ttach Graphics"
+	Click:	"View.AddGraphics"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.911
+	Disabled:	1
+	Help:	"Removes association between graphics and active themes"
+	HelpTopic:	"Detach_Graphics"
+	Update:	"View.ClearGraphicsUpdate"
+	Label:	"&Detach Graphics"
+	Click:	"View.ClearGraphics"
+	Shortcut:	"Keys.None"
+)
+
+(Space.912
+)
+
+(PMenu.913
+	InternalName:	"Window"
+	Child:	914
+	Child:	915
+	Child:	916
+	Child:	917
+	Child:	918
+	Child:	919
+	Child:	921
+	Child:	922
+	Child:	923
+	Child:	924
+	Label:	"&Window"
+)
+
+(Choice.914
+	Help:	"Arranges windows as non-overlapping tiles"
+	HelpTopic:	"Tile"
+	Label:	"&Tile"
+	Click:	"Project.Tile"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.915
+	Help:	"Arranges windows"
+	HelpTopic:	"Cascade"
+	Label:	"&Cascade"
+	Click:	"Project.Cascade"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.916
+	Help:	"Arranges iconified windows"
+	HelpTopic:	"Arrange_Icons"
+	Label:	"&Arrange Icons"
+	Click:	"Project.ArrangeIcons"
+	Shortcut:	"Keys.None"
+)
+
+(Space.917
+)
+
+(Choice.918
+	Help:	"Shows the symbol window"
+	HelpTopic:	"Show_Symbol_Window"
+	Label:	"Show Symbol Window..."
+	Click:	"Project.ShowHideSymWin"
+	Shortcut:	"Keys.Ctrl+P"
+)
+
+(Space.919
+	ObjectTag:	920
+	Update:	"WindowMenuUpdate"
+)
+
+(AVStr.920
+	S:	"proj1.apr Attributes of Garis pantai.shp Attributes of Pelabuhan penyebrangan.shp View1"
+)
+
+(Choice.921
+	Help:	"Activates proj1.apr"
+	Label:	"&1 proj1.apr"
+	Click:	"WindowActivate"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.922
+	Help:	"Activates Attributes of Garis pantai.shp"
+	Label:	"&2 Attributes of Garis pantai.shp"
+	Click:	"WindowActivate"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.923
+	Help:	"Activates Attributes of Pelabuhan penyebrangan.shp"
+	Label:	"&3 Attributes of Pelabuhan penyebrangan.shp"
+	Click:	"WindowActivate"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.924
+	Help:	"Activates View1"
+	Label:	"&4 View1"
+	Click:	"WindowActivate"
+	Shortcut:	"Keys.None"
+)
+
+(PMenu.925
+	InternalName:	"Help"
+	Child:	926
+	Child:	927
+	Child:	928
+	Child:	929
+	Label:	"&Help"
+)
+
+(Choice.926
+	Help:	"Displays the dialog for browsing and searching ArcView's help system"
+	HelpTopic:	"Help_on_Help_Topics"
+	Label:	"Help &Topics..."
+	Click:	"Project.HelpTopics"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.927
+	Help:	"Provides instructions for how to obtain help from ArcView"
+	HelpTopic:	"Help_on_How_to_Get_Help"
+	Label:	"&How to Get Help..."
+	Click:	"Project.HelpHelp"
+	Shortcut:	"Keys.None"
+)
+
+(Space.928
+)
+
+(Choice.929
+	Help:	"Provides information about ArcView"
+	HelpTopic:	"About"
+	Label:	"&About ArcView..."
+	Click:	"Project.About"
+	Shortcut:	"Keys.None"
+)
+
+(ButnBar.930
+	Child:	931
+	Child:	933
+	Child:	934
+	Child:	936
+	Child:	937
+	Child:	939
+	Child:	941
+	Child:	943
+	Child:	944
+	Child:	946
+	Child:	948
+	Child:	950
+	Child:	951
+	Child:	953
+	Child:	955
+	Child:	957
+	Child:	959
+	Child:	961
+	Child:	963
+	Child:	964
+	Child:	966
+	Child:	968
+	Child:	969
+)
+
+(Butn.931
+	Help:	"Save Project//Saves the current project"
+	HelpTopic:	"Save_Project"
+	Icon:	932
+	Click:	"Project.Save"
+)
+
+(AVIcon.932
+	Name:	"Save"
+	Res:	"Icons.Save"
+
+)
+
+(Space.933
+)
+
+(Butn.934
+	Help:	"Add Theme//Inserts themes into the view"
+	HelpTopic:	"Add_Theme"
+	Icon:	935
+	Click:	"View.Add"
+)
+
+(AVIcon.935
+	Name:	"AddTheme"
+	Res:	"Icons.AddTheme"
+
+)
+
+(Space.936
+)
+
+(Butn.937
+	Help:	"Theme Properties//Displays the dialog box to edit properties of the active theme"
+	HelpTopic:	"Theme_Properties"
+	Update:	"View.ActiveThemesUpdate"
+	Icon:	938
+	Click:	"View.ThemeProperties"
+)
+
+(AVIcon.938
+	Name:	"Props"
+	Res:	"Icons.Props"
+
+)
+
+(Butn.939
+	Help:	"Edit Legend//Displays the legends of the active themes"
+	HelpTopic:	"Edit_Legend"
+	Update:	"View.ActiveThemesUpdate"
+	Icon:	940
+	Click:	"View.EditLegendClick"
+)
+
+(AVIcon.940
+	Name:	"Legend"
+	Res:	"Icons.Legend"
+
+)
+
+(Butn.941
+	Help:	"Open Theme Table//Opens the tables of the active themes"
+	HelpTopic:	"Open_Theme_Table"
+	Update:	"View.TabularThemesUpdate"
+	Icon:	942
+	Click:	"View.ShowTable"
+)
+
+(AVIcon.942
+	Name:	"Table"
+	Res:	"Icons.Table"
+
+)
+
+(Space.943
+)
+
+(Butn.944
+	Help:	"Find//Finds features in the active themes using the text you enter"
+	HelpTopic:	"Find"
+	Update:	"View.TabularThemesUpdate"
+	Icon:	945
+	Click:	"View.Find"
+)
+
+(AVIcon.945
+	Name:	"Find"
+	Res:	"Icons.Find"
+
+)
+
+(Butn.946
+	Disabled:	1
+	Help:	"Locate Address//Locates an address in the active, matchable theme"
+	HelpTopic:	"Locate_Address"
+	Update:	"View.LocateUpdate"
+	Icon:	947
+	Click:	"View.Locate"
+)
+
+(AVIcon.947
+	Name:	"AddMatch"
+	Res:	"Icons.AddMatch"
+
+)
+
+(Butn.948
+	Help:	"Query Builder//Displays the Query Builder to select features with a logical expression"
+	HelpTopic:	"Query_Builder"
+	Update:	"View.AttributeThemesUpdate"
+	Icon:	949
+	Click:	"View.Query"
+)
+
+(AVIcon.949
+	Name:	"QueryBuilder"
+	Res:	"Icons.QueryBuilder"
+
+)
+
+(Space.950
+)
+
+(Butn.951
+	Help:	"Zoom to Full Extent//Zooms to the extent of all themes"
+	HelpTopic:	"Zoom_to_Full_Extent"
+	Update:	"View.HasDataUpdate"
+	Icon:	952
+	Click:	"View.ZoomFullExtent"
+)
+
+(AVIcon.952
+	Name:	"ZoomView"
+	Res:	"Icons.ZoomView"
+
+)
+
+(Butn.953
+	Help:	"Zoom to Active Theme(s)//Zooms to the extent of active themes"
+	HelpTopic:	"Zoom_to_Active_Theme"
+	Update:	"View.ActiveThemesUpdate"
+	Icon:	954
+	Click:	"View.ZoomToThemes"
+)
+
+(AVIcon.954
+	Name:	"ZoomTheme"
+	Res:	"Icons.ZoomTheme"
+
+)
+
+(Butn.955
+	Help:	"Zoom to Selected//Zooms to the extent of the selected features"
+	HelpTopic:	"Zoom_to_Selected"
+	Update:	"View.SelectableThemesUpdate"
+	Icon:	956
+	Click:	"View.ZoomToSelected"
+)
+
+(AVIcon.956
+	Name:	"ZoomToSelected"
+	Res:	"Icons.ZoomToSelected"
+
+)
+
+(Butn.957
+	Help:	"Zoom In//Zooms in on the center of the display"
+	HelpTopic:	"Zoom_In"
+	Update:	"View.HasDataUpdate"
+	Icon:	958
+	Click:	"View.ZoomIn"
+)
+
+(AVIcon.958
+	Name:	"ZoomIn"
+	Res:	"Icons.ZoomIn"
+
+)
+
+(Butn.959
+	Help:	"Zoom Out//Zooms out from the center of the display"
+	HelpTopic:	"Zoom_Out"
+	Update:	"View.HasDataUpdate"
+	Icon:	960
+	Click:	"View.ZoomOut"
+)
+
+(AVIcon.960
+	Name:	"ZoomOut"
+	Res:	"Icons.ZoomOut"
+
+)
+
+(Butn.961
+	Help:	"Zoom to Previous Extent//Goes back to the previous extent you were viewing"
+	HelpTopic:	"Zoom_Previous"
+	Update:	"View.UndoZoomUpdate"
+	Icon:	962
+	Click:	"View.UndoZoom"
+)
+
+(AVIcon.962
+	Name:	"ZoomPrevious"
+	Res:	"Icons.ZoomPrevious"
+
+)
+
+(Space.963
+)
+
+(Butn.964
+	Disabled:	1
+	Help:	"Select Features Using Graphic//Selects features in active themes using selected graphics"
+	HelpTopic:	"Select_Features_Using_Graphic"
+	Update:	"View.SpatialSelectUpdate"
+	Icon:	965
+	Click:	"View.SpatialSelect"
+)
+
+(AVIcon.965
+	Name:	"SpatialSelect"
+	Res:	"Icons.SpatialSelect"
+
+)
+
+(Butn.966
+	Help:	"Clear Selected Features//Unselects the selected features of all active themes"
+	HelpTopic:	"Clear_Selected_Features"
+	Update:	"View.AttributeThemesUpdate"
+	Icon:	967
+	Click:	"View.ClearSelect"
+)
+
+(AVIcon.967
+	Name:	"SelectNone"
+	Res:	"Icons.SelectNone"
+
+)
+
+(Space.968
+)
+
+(Butn.969
+	Help:	"Help//Gets help about the next button, tool, or menu choice you click"
+	HelpTopic:	"Help_button"
+	Icon:	970
+	Click:	"Help.Tool"
+)
+
+(AVIcon.970
+	Name:	"HelpTool"
+	Res:	"Icons.HelpTool"
+
+)
+
+(PopupSet.971
+	Child:	972
+)
+
+(Popup.972
+	Child:	973
+	Child:	974
+	Child:	975
+	Child:	976
+	Child:	977
+	Child:	978
+	Child:	979
+	Child:	980
+	Child:	981
+	Child:	982
+	Child:	983
+	Child:	984
+	Child:	985
+	Child:	986
+	Child:	987
+	Child:	988
+	Child:	989
+	Child:	990
+	Child:	991
+	Child:	992
+	Label:	"Menu"
+)
+
+(Choice.973
+	Disabled:	1
+	Invisible:	1
+	Help:	"Deletes the last entered point on the line or polygon being drawn"
+	Update:	"View.DelLastPointUpdate"
+	Label:	"Delete Last Point"
+	Click:	"View.DeleteLastPoint"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.974
+	Disabled:	1
+	Help:	"Undo the last edit to graphics on a view"
+	HelpTopic:	"Undo_Graphic_Edit_on_a_view"
+	Update:	"View.UndoEditUpdate"
+	Label:	"Undo Graphic Edit"
+	Click:	"View.UndoEdit"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.975
+	Disabled:	1
+	Invisible:	1
+	Help:	"Redo the last edit operation on a theme that was undone"
+	Update:	"View.RedoEditUpdate"
+	Label:	"Redo Feature Edit"
+	Click:	"View.RedoEdit"
+	Shortcut:	"Keys.None"
+)
+
+(Space.976
+)
+
+(Choice.977
+	Disabled:	1
+	Invisible:	1
+	Help:	"Turns general snapping on"
+	Update:	"View.ToggleGeneralSnapUpdate"
+	Label:	"Enable General Snapping"
+	Click:	"View.ToggleGeneralSnap"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.978
+	Disabled:	1
+	Invisible:	1
+	Help:	"Turns interactive snapping on"
+	Update:	"View.ToggleInteractiveSnapUpdate"
+	Label:	"Enable Interactive Snapping"
+	Click:	"View.ToggleInteractiveSnap"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.979
+	Disabled:	1
+	Invisible:	1
+	Help:	"Turns snap tolerance cursor off"
+	Update:	"View.ToggleTolCursorUpdate"
+	Label:	"Hide Snap Tolerance Cursor"
+	Click:	"View.ToggleTolCursor"
+	Shortcut:	"Keys.None"
+)
+
+(Space.980
+)
+
+(Choice.981
+	Disabled:	1
+	Invisible:	1
+	Help:	"Snaps the next entered point to the nearest vertex within the user tolerance"
+	Update:	"View.InteractiveSnapUpdate"
+	Label:	"Snap to Vertex"
+	Click:	"View.SnapToVertex"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.982
+	Disabled:	1
+	Invisible:	1
+	Help:	"Snaps the next entered point to the nearest line segment"
+	Update:	"View.InteractiveSnapUpdate"
+	Label:	"Snap to Boundary"
+	Click:	"View.SnapToBoundary"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.983
+	Disabled:	1
+	Invisible:	1
+	Help:	"Snaps the next entered point to the nearest node common to two or more features"
+	Update:	"View.InteractiveSnapUpdate"
+	Label:	"Snap to Intersection"
+	Click:	"View.SnapToIntersection"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.984
+	Disabled:	1
+	Invisible:	1
+	Help:	"Snaps the next entered point to the nearest endpoint of an existing line"
+	Update:	"View.SnapToEndPointUpdate"
+	Label:	"Snap to Endpoint"
+	Click:	"View.SnapToEndPoint"
+	Shortcut:	"Keys.None"
+)
+
+(Space.985
+)
+
+(Choice.986
+	Help:	"Unselects the selected features in all active themes"
+	Update:	"View.AttributeThemesUpdate"
+	Label:	"Clear Selection"
+	Click:	"View.ClearSelect"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.987
+	Help:	"Zooms in at point where you click to bring up popup menu"
+	Update:	"View.HasDataUpdate"
+	Label:	"Zoom In"
+	Click:	"View.PopupZoomIn"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.988
+	Help:	"Zooms out from point where you click to bring up popup menu"
+	Update:	"View.HasDataUpdate"
+	Label:	"Zoom Out"
+	Click:	"View.PopupZoomOut"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.989
+	Help:	"Zooms to the extent of the selected features"
+	Update:	"View.SelectableThemesUpdate"
+	Label:	"Zoom to Selected"
+	Click:	"View.ZoomToSelected"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.990
+	Help:	"Centers display on point where you click to bring up popup"
+	Update:	"View.HasDataUpdate"
+	Label:	"Pan"
+	Click:	"View.PopupPan"
+	Shortcut:	"Keys.None"
+)
+
+(Space.991
+)
+
+(Choice.992
+	Help:	"Opens the shape properties window for editing vertex locations"
+	Update:	"ShapeWin.PopUp Update"
+	Label:	"Shape Properties"
+	Click:	"ShapeWin.PopUp Open"
+	Shortcut:	"Keys.None"
+)
+
+(ToolBar.993
+	Child:	994
+	Child:	996
+	Child:	998
+	Child:	1000
+	Child:	1002
+	Child:	1004
+	Child:	1006
+	Child:	1008
+	Child:	1010
+	Child:	1012
+	Child:	1014
+	Child:	1033
+	Child:	1046
+	Child:	1065
+)
+
+(Tool.994
+	Help:	"Identify//Provides information about a feature"
+	HelpTopic:	"Identify_tool"
+	Update:	"View.IdentifyUpdate"
+	Icon:	995
+	Cursor:	"Cursors.ID"
+	Apply:	"View.Identify"
+)
+
+(AVIcon.995
+	Name:	"ID"
+	Res:	"Icons.ID"
+
+)
+
+(Tool.996
+	Help:	"Pointer//Selects, moves, and resizes graphics"
+	HelpTopic:	"Pointer_tool"
+	Update:	"View.HasDataUpdate"
+	Icon:	997
+	Cursor:	"Cursors.Select"
+	Apply:	"View.Select"
+	Click:	"View.SelectTool"
+)
+
+(AVIcon.997
+	Name:	"Select"
+	Res:	"Icons.Select"
+
+)
+
+(Tool.998
+	Help:	"Vertex Edit//Adds, moves, and deletes vertices of features and graphics"
+	HelpTopic:	"Vertex_Edit_tool"
+	Update:	"View.SelectToEditUpdate"
+	Icon:	999
+	Cursor:	"Cursors.SelectEdit"
+	Apply:	"View.SelectToEdit"
+	Click:	"View.SelectToEditTool"
+)
+
+(AVIcon.999
+	Name:	"SelectEdit"
+	Res:	"Icons.SelectEdit"
+
+)
+
+(Tool.1000
+	Help:	"Select Feature//Selects features in the active themes by pointing or dragging"
+	HelpTopic:	"Select_Feature_tool"
+	Update:	"View.SelectableThemesUpdate"
+	Icon:	1001
+	Cursor:	"Cursors.Default"
+	Apply:	"View.SelectPoint"
+)
+
+(AVIcon.1001
+	Name:	"FeatureSelect"
+	Res:	"Icons.FeatureSelect"
+
+)
+
+(Tool.1002
+	Help:	"Zoom In//Zooms in at a point you click or zooms in on a rectangle you drag"
+	HelpTopic:	"Zoom_In_tool"
+	Update:	"View.HasDataUpdate"
+	Icon:	1003
+	Cursor:	"Cursors.ZoomIn"
+	Apply:	"View.ZoomInTool"
+)
+
+(AVIcon.1003
+	Name:	"ZoomInTool"
+	Res:	"Icons.ZoomInTool"
+
+)
+
+(Tool.1004
+	Help:	"Zoom Out//Zooms out from a point you click or zooms out to include a rectangle you drag"
+	HelpTopic:	"Zoom_Out_tool"
+	Update:	"View.HasDataUpdate"
+	Icon:	1005
+	Cursor:	"Cursors.ZoomOut"
+	Apply:	"View.ZoomOutTool"
+)
+
+(AVIcon.1005
+	Name:	"ZoomOutTool"
+	Res:	"Icons.ZoomOutTool"
+
+)
+
+(Tool.1006
+	Help:	"Pan//Drags the display in the direction you move the cursor"
+	HelpTopic:	"Pan_tool"
+	Update:	"View.HasDataUpdate"
+	Icon:	1007
+	Cursor:	"Cursors.Pan"
+	Apply:	"View.Pan"
+)
+
+(AVIcon.1007
+	Name:	"Pan"
+	Res:	"Icons.Pan"
+
+)
+
+(Tool.1008
+	Help:	"Measure//Measures distance"
+	HelpTopic:	"Measure_tool"
+	Update:	"View.HasDataUpdate"
+	Icon:	1009
+	Cursor:	"Cursors.Measure"
+	Apply:	"View.Measure"
+)
+
+(AVIcon.1009
+	Name:	"Measure"
+	Res:	"Icons.Measure"
+
+)
+
+(Tool.1010
+	Disabled:	1
+	Help:	"Hot Link//Follows a hot link in the active themes"
+	HelpTopic:	"Hot_Link_tool"
+	Update:	"View.HotLinkUpdate"
+	Icon:	1011
+	Cursor:	"Cursors.Media"
+	Apply:	"View.HotLink"
+)
+
+(AVIcon.1011
+	Name:	"Media"
+	Res:	"Icons.Media"
+
+)
+
+(Tool.1012
+	Disabled:	1
+	Help:	"Area of Interest//Sets the view's Area Of Interest for library-based themes"
+	HelpTopic:	"Area_Of_Interest_tool"
+	Update:	"View.AOIToolUpdate"
+	Icon:	1013
+	Cursor:	"Cursors.Default"
+	Apply:	"View.AOITool"
+)
+
+(AVIcon.1013
+	Name:	"AOI"
+	Res:	"Icons.AOI"
+
+)
+
+(ToolMenu.1014
+	Disabled:	1
+	Help:	"Label//Labels a feature in the active theme with data from its table"
+	HelpTopic:	"Label_Tool"
+	Update:	"View.LabelToolUpdate"
+	Icon:	1015
+	Cursor:	"Cursors.Tag"
+	Apply:	"View.LabelTool"
+	Child:	1016
+	Child:	1017
+	Child:	1019
+	Child:	1021
+	Child:	1023
+	Child:	1025
+	Child:	1027
+	Child:	1029
+	Child:	1031
+)
+
+(AVIcon.1015
+	Name:	"Tag"
+	Res:	"Icons.Tag"
+
+)
+
+(Tool.1016
+	Disabled:	1
+	Help:	"Label//Labels a feature in the active theme with data from its table"
+	HelpTopic:	"Label_Tool"
+	Update:	"View.LabelToolUpdate"
+	Icon:	1015
+	Cursor:	"Cursors.Tag"
+	Apply:	"View.LabelTool"
+)
+
+(Tool.1017
+	Disabled:	1
+	Help:	"Callout Label//Click on a feature and drag in the direction you want the label to appear"
+	HelpTopic:	"Label_Tool"
+	Update:	"View.CalloutUpdate"
+	Icon:	1018
+	Cursor:	"Cursors.Tag"
+	Apply:	"View.CalloutLabelTool"
+)
+
+(AVIcon.1018
+	Name:	"CallOutLabel1"
+	Res:	"Icons.CallOutLabel1"
+
+)
+
+(Tool.1019
+	Disabled:	1
+	Help:	"Bullet Leader Label//Click on a feature and drag in the direction you want the label to appear"
+	HelpTopic:	"Label_Tool"
+	Update:	"View.CalloutUpdate"
+	Icon:	1020
+	Cursor:	"Cursors.Tag"
+	Apply:	"View.BulletLeaderLabelTool"
+)
+
+(AVIcon.1020
+	Name:	"CallOutLabel2"
+	Res:	"Icons.CallOutLabel2"
+
+)
+
+(Tool.1021
+	Disabled:	1
+	Help:	"Banner Label//Click on a feature you want to label"
+	HelpTopic:	"Label_Tool"
+	Update:	"View.CalloutUpdate"
+	Icon:	1022
+	Cursor:	"Cursors.Tag"
+	Apply:	"View.ShadowBoxLabelTool"
+)
+
+(AVIcon.1022
+	Name:	"CallOutLabel3"
+	Res:	"Icons.CallOutLabel3"
+
+)
+
+(Tool.1023
+	Disabled:	1
+	Help:	"U.S. Interstate//Click where you want to place a highway shield"
+	HelpTopic:	"Label_Tool"
+	Update:	"View.CalloutUpdate"
+	Icon:	1024
+	Cursor:	"Cursors.Tag"
+	Apply:	"View.Highway1 Apply"
+)
+
+(AVIcon.1024
+	Name:	"BW US Interstate"
+	Res:	"Icons.BW US Interstate"
+
+)
+
+(Tool.1025
+	Disabled:	1
+	Help:	"U.S. Route//Click where you want to place a highway shield"
+	HelpTopic:	"Label_Tool"
+	Update:	"View.CalloutUpdate"
+	Icon:	1026
+	Cursor:	"Cursors.Tag"
+	Apply:	"View.Highway2 Apply"
+)
+
+(AVIcon.1026
+	Name:	"USRoute"
+	Res:	"Icons.USRoute"
+
+)
+
+(Tool.1027
+	Disabled:	1
+	Help:	"Generic State Hwy//Click where you want to place a highway shield"
+	HelpTopic:	"Label_Tool"
+	Update:	"View.CalloutUpdate"
+	Icon:	1028
+	Cursor:	"Cursors.Tag"
+	Apply:	"View.Highway3 Apply"
+)
+
+(AVIcon.1028
+	Name:	"GenericStateHighway"
+	Res:	"Icons.GenericStateHighway"
+
+)
+
+(Tool.1029
+	Disabled:	1
+	Help:	"Generic Square Hwy//Click where you want to place a highway shield"
+	HelpTopic:	"Label_Tool"
+	Update:	"View.CalloutUpdate"
+	Icon:	1030
+	Cursor:	"Cursors.Tag"
+	Apply:	"View.Highway4 Apply"
+)
+
+(AVIcon.1030
+	Name:	"GenericHighway1"
+	Res:	"Icons.GenericHighway1"
+
+)
+
+(Tool.1031
+	Disabled:	1
+	Help:	"Generic Oval Hwy//Click where you want to place a highway shield"
+	Update:	"View.CalloutUpdate"
+	Icon:	1032
+	Cursor:	"Cursors.Tag"
+	Apply:	"View.Highway5 Apply"
+)
+
+(AVIcon.1032
+	Name:	"GenericHighway2"
+	Res:	"Icons.GenericHighway2"
+
+)
+
+(ToolMenu.1033
+	Help:	"Text//Creates text on the display"
+	HelpTopic:	"Text_tool"
+	Update:	"View.TextToolUpdate"
+	Icon:	1034
+	Cursor:	"Cursors.Text"
+	Apply:	"View.TextTool"
+	Click:	"SymWin.DisplayFontPanel"
+	Child:	1035
+	Child:	1036
+	Child:	1038
+	Child:	1040
+	Child:	1042
+	Child:	1044
+)
+
+(AVIcon.1034
+	Name:	"Text"
+	Res:	"Icons.Text"
+
+)
+
+(Tool.1035
+	Help:	"Text//Creates text on the display"
+	HelpTopic:	"Text_tool"
+	Update:	"View.TextToolUpdate"
+	Icon:	1034
+	Cursor:	"Cursors.Text"
+	Apply:	"View.TextTool"
+	Click:	"SymWin.DisplayFontPanel"
+)
+
+(Tool.1036
+	Help:	"Callout Text//Click and drag to where you want your text to appear, then enter the text"
+	HelpTopic:	"Text_tool"
+	Update:	"View.TextToolUpdate"
+	Icon:	1037
+	Cursor:	"Cursors.Bullseye"
+	Apply:	"View.CalloutTextTool"
+)
+
+(AVIcon.1037
+	Name:	"CallOutText1"
+	Res:	"Icons.CallOutText1"
+
+)
+
+(Tool.1038
+	Help:	"Bullet Leader Text//Click and drag to where you want your text to appear, then enter the text"
+	HelpTopic:	"Text_tool"
+	Update:	"View.TextToolUpdate"
+	Icon:	1039
+	Cursor:	"Cursors.Bullseye"
+	Apply:	"View.BulletLeaderTextTool"
+)
+
+(AVIcon.1039
+	Name:	"CallOutText2"
+	Res:	"Icons.CallOutText2"
+
+)
+
+(Tool.1040
+	Help:	"Banner Text//Click where you want your label to appear and enter your text"
+	HelpTopic:	"Text_tool"
+	Update:	"View.TextToolUpdate"
+	Icon:	1041
+	Cursor:	"Cursors.Bullseye"
+	Apply:	"View.ShadowBoxTextTool"
+)
+
+(AVIcon.1041
+	Name:	"CallOutText3"
+	Res:	"Icons.CallOutText3"
+
+)
+
+(Tool.1042
+	Help:	"Drop-Shadow Text//Click where you want your text to appear and enter your text"
+	HelpTopic:	"Text_tool"
+	Update:	"View.TextToolUpdate"
+	Icon:	1043
+	Cursor:	"Cursors.Target"
+	Apply:	"View.CreateDropShadowText"
+)
+
+(AVIcon.1043
+	Name:	"DropShadowText"
+	Res:	"Icons.DropShadowText"
+
+)
+
+(Tool.1044
+	Help:	"Spline Text//Adds text that is aligned to a splined baseline"
+	HelpTopic:	"Text_tool"
+	Update:	"View.TextToolUpdate"
+	Icon:	1045
+	Cursor:	"Cursors.Bullseye"
+	Apply:	"View.SplineText"
+)
+
+(AVIcon.1045
+	Name:	"TextAligned"
+	Res:	"Icons.TextAligned"
+
+)
+
+(ToolMenu.1046
+	Help:	"Draw Point//Creates a point on the display"
+	HelpTopic:	"Draw_tool"
+	Update:	"View.PointToolUpdate"
+	Icon:	1047
+	Cursor:	"Cursors.CrossHair"
+	Apply:	"View.PointTool"
+	Click:	"SymWin.DisplayMarkerPanel"
+	Child:	1048
+	Child:	1049
+	Child:	1051
+	Child:	1053
+	Child:	1055
+	Child:	1057
+	Child:	1059
+	Child:	1061
+	Child:	1063
+)
+
+(AVIcon.1047
+	Name:	"Point"
+	Res:	"Icons.Point"
+
+)
+
+(Tool.1048
+	Help:	"Draw Point//Creates a point on the display"
+	HelpTopic:	"Draw_tool"
+	Update:	"View.PointToolUpdate"
+	Icon:	1047
+	Cursor:	"Cursors.CrossHair"
+	Apply:	"View.PointTool"
+	Click:	"SymWin.DisplayMarkerPanel"
+)
+
+(Tool.1049
+	Help:	"Draw Straight Line//Creates a line on the display"
+	HelpTopic:	"Draw_tool"
+	Update:	"View.GraphicToolUpdate"
+	Icon:	1050
+	Cursor:	"Cursors.CrossHair"
+	Apply:	"View.LineTool"
+	Click:	"SymWin.DisplayPenPanel"
+)
+
+(AVIcon.1050
+	Name:	"SelectLine"
+	Res:	"Icons.SelectLine"
+
+)
+
+(Tool.1051
+	Help:	"Draw Line//Creates a line with two or more points on the display"
+	HelpTopic:	"Draw_tool"
+	Update:	"View.PolyLineToolUpdate"
+	Icon:	1052
+	Cursor:	"Cursors.CrossHair"
+	Apply:	"View.PolyLineTool"
+	Click:	"SymWin.DisplayPenPanel"
+)
+
+(AVIcon.1052
+	Name:	"Lines"
+	Res:	"Icons.Lines"
+
+)
+
+(Tool.1053
+	Help:	"Draw Rectangle//Creates a rectangle on the display"
+	HelpTopic:	"Draw_tool"
+	Update:	"View.PolyToolUpdate"
+	Icon:	1054
+	Cursor:	"Cursors.CrossHair"
+	Apply:	"View.RectTool"
+	Click:	"SymWin.DisplayFillPanel"
+)
+
+(AVIcon.1054
+	Name:	"Rect"
+	Res:	"Icons.Rect"
+
+)
+
+(Tool.1055
+	Help:	"Draw Circle//Creates a circle on the display"
+	HelpTopic:	"Draw_tool"
+	Update:	"View.PolyToolUpdate"
+	Icon:	1056
+	Cursor:	"Cursors.CrossHair"
+	Apply:	"View.CircleTool"
+	Click:	"SymWin.DisplayFillPanel"
+)
+
+(AVIcon.1056
+	Name:	"Disk"
+	Res:	"Icons.Disk"
+
+)
+
+(Tool.1057
+	Help:	"Draw Polygon//Creates a polygon on the display"
+	HelpTopic:	"Draw_tool"
+	Update:	"View.PolyToolUpdate"
+	Icon:	1058
+	Cursor:	"Cursors.CrossHair"
+	Apply:	"View.PolyTool"
+	Click:	"SymWin.DisplayFillPanel"
+)
+
+(AVIcon.1058
+	Name:	"Poly"
+	Res:	"Icons.Poly"
+
+)
+
+(Tool.1059
+	Disabled:	1
+	Help:	"Draw Line to Split Feature//Creates a line to split line features"
+	HelpTopic:	"Draw_tool"
+	Update:	"View.SplitLineToolUpdate"
+	Icon:	1060
+	Cursor:	"Cursors.CrossHair"
+	Apply:	"View.SplitTool"
+)
+
+(AVIcon.1060
+	Name:	"SplitLine"
+	Res:	"Icons.SplitLine"
+
+)
+
+(Tool.1061
+	Disabled:	1
+	Help:	"Draw Line to Split Polygon//Creates a line to split polygon features"
+	HelpTopic:	"Draw_tool"
+	Update:	"View.SplitPolyToolUpdate"
+	Icon:	1062
+	Cursor:	"Cursors.CrossHair"
+	Apply:	"View.SplitTool"
+)
+
+(AVIcon.1062
+	Name:	"SplitPoly"
+	Res:	"Icons.SplitPoly"
+
+)
+
+(Tool.1063
+	Disabled:	1
+	Help:	"Draw Line to Append Polygon//Appends a new polygon adjacent to other polygons"
+	HelpTopic:	"Draw_tool"
+	Update:	"View.AutoCompleteUpdate"
+	Icon:	1064
+	Cursor:	"Cursors.CrossHair"
+	Apply:	"View.AutoCompleteTool"
+)
+
+(AVIcon.1064
+	Name:	"AutoComplete"
+	Res:	"Icons.AutoComplete"
+
+)
+
+(ToolMenu.1065
+	Disabled:	1
+	Invisible:	1
+	Help:	"Snap//Sets the general snapping tolerance for the editable theme"
+	HelpTopic:	"Snap_tools"
+	Update:	"View.SnapToolUpdate"
+	Icon:	1066
+	Cursor:	"Cursors.Default"
+	Apply:	"View.SnapTool"
+	Child:	1067
+	Child:	1068
+)
+
+(AVIcon.1066
+	Name:	"SnapTool"
+	Res:	"Icons.SnapTool"
+
+)
+
+(Tool.1067
+	Disabled:	1
+	Invisible:	1
+	Help:	"Snap//Sets the general snapping tolerance for the editable theme"
+	HelpTopic:	"Snap_tools"
+	Update:	"View.SnapToolUpdate"
+	Icon:	1066
+	Cursor:	"Cursors.Default"
+	Apply:	"View.SnapTool"
+)
+
+(Tool.1068
+	Disabled:	1
+	Invisible:	1
+	Help:	"Snap//Sets the interactive snapping tolerance for the editable theme"
+	HelpTopic:	"Snap_tools"
+	Update:	"View.InteractiveSnapToolUpdate"
+	Icon:	1069
+	Cursor:	"Cursors.Default"
+	Apply:	"View.InteractiveSnapTool"
+)
+
+(AVIcon.1069
+	Name:	"SnapFeatureTool"
+	Res:	"Icons.SnapFeatureTool"
+
+)
+
+(AVIcon.1070
+	Name:	"Icon"
+	Res:	"View.Icon"
+
+)
+
+(FN.1641
+	Path:	"$HOME"
+)
+
+(TClr.1642
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(AVStr.1643
+	S:	"View"
+)
+
+(AVStr.1644
+	S:	"Table"
+)
+
+(AVStr.1645
+	S:	"Chart"
+)
+
+(AVStr.1646
+	S:	"Layout"
+)
+
+(AVStr.1647
+	S:	"Script"
+)
+
+(AVStr.1648
+	S:	"Project"
+)
+
+(AVStr.1649
+	S:	"Appl"
+)
+
